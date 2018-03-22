@@ -1,4 +1,3 @@
-from pyvirtualdisplay import Display
 from selenium import webdriver
 import time
 from selenium.common.exceptions import NoSuchElementException,StaleElementReferenceException
@@ -21,18 +20,15 @@ except TimeoutException:
 
 
 table=driver.find_elements_by_xpath('//*[@id="currencies"]')
+image_logo = driver.find_elements_by_class_name('currency-logo-sprite')
+image_graph = driver.find_elements_by_class_name('sparkline')
 for i in range(0,len(table)):
      tag = table[i].find_elements_by_tag_name('tr')
      for i in range(0,len(tag)):
-         table_data=tag[i].find_elements_by_tag_name('td')
+         src_logo = image_logo[i].get_attribute('src')
+         src_graph = image_graph[i].get_attribute('src')
+         print(src_logo)
+         print(src_graph)
+         table_data=tag[i+1].find_elements_by_tag_name('td')
          for i in table_data:
              print(i.text)
-image_logo = driver.find_elements_by_class_name('currency-logo-sprite')
-for i in range(0,len(image_logo)):
-    src = image_logo[i].get_attribute('src')
-    print(src)
-
-image_graph = driver.find_elements_by_class_name('sparkline')
-for i in range(0,len(image_graph)):
-    src = image_graph[i].get_attribute('src')
-    print(src)
