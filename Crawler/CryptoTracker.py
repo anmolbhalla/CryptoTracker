@@ -7,7 +7,6 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
 import time
 
-
 def Coin_details():
 
     data_file=open('crypto_data.txt','w')
@@ -31,13 +30,13 @@ def Coin_details():
          for i in range(0,100):
                 src_logo = image_logo[i].get_attribute('src')
                 src_graph = image_graph[i].get_attribute('src')
-                data_file.writelines(str(src_logo) + '-')
+                data_file.writelines(str(src_logo) + '***')
 
-                data_file.writelines(str(src_graph) + '-')
+                data_file.writelines(str(src_graph) + '***')
                 table_data=tag[i+1].find_elements_by_tag_name('td')
-                for i in table_data:
-                    data_file.writelines(str(i.text) + '-')
 
+                for i in table_data:
+                    data_file.writelines(str(i.text) + '***')
                 data_file.writelines('\n')
 
     data_file.close()
