@@ -6,11 +6,13 @@ from django.urls import reverse
 from .models import Cryptos
 
 def index (request):
+
     cryptos_detail = Cryptos.objects.order_by('id')
     template = loader.get_template('cryptodisplay/home.html')
     context = {
         'cryptos_detail': cryptos_detail,
     }
+
     return HttpResponse(template.render(context, request))
 
 
