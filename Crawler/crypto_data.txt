@@ -1,0 +1,100 @@
+https://s2.coinmarketcap.com/static/img/coins/16x16/1.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1.png-1-Bitcoin-$8,422.59--6.88%-$142.63 B-16.93 M BTC-$5.51 B--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1027.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1027.png-2-Ethereum-$515.72--9.60%-$50.73 B-98.36 M ETH-$1.54 B--
+https://s2.coinmarketcap.com/static/img/coins/16x16/52.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/52.png-3-Ripple-$0.633591--8.65%-$24.77 B-39.09 B XRP *-$447.76 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1831.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1831.png-4-Bitcoin Cash-$969.07--7.68%-$16.51 B-17.03 M BCH-$333.91 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2.png-5-Litecoin-$158.38--7.13%-$8.83 B-55.75 M LTC-$390.95 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2010.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2010.png-6-Cardano-$0.188671--12.80%-$4.89 B-25.93 B ADA *-$189.56 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1765.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1765.png-7-EOS-$6.54--8.75%-$4.88 B-746.34 M EOS *-$1.02 B--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1376.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1376.png-8-NEO-$64.85--12.83%-$4.22 B-65.00 M NEO *-$154.68 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/512.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/512.png-9-Stellar-$0.226374--11.14%-$4.20 B-18.55 B XLM *-$52.78 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1720.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1720.png-10-IOTA-$1.27--8.22%-$3.54 B-2.78 B MIOTA *-$35.97 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/328.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/328.png-11-Monero-$201.70--9.13%-$3.20 B-15.85 M XMR-$37.27 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/131.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/131.png-12-Dash-$398.66--8.42%-$3.17 B-7.96 M DASH-$100.03 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/873.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/873.png-13-NEM-$0.275727--6.34%-$2.48 B-9.00 B XEM *-$81.35 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1958.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1958.png-14-TRON-$0.035452--7.37%-$2.33 B-65.75 B TRX *-$221.20 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/825.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/825.png-15-Tether-$0.999885--0.01%-$2.29 B-2.29 B USDT *-$2.18 B--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1321.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1321.png-16-Ethereum Classic-$18.49--8.92%-$1.86 B-100.69 M ETC-$219.57 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1904.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1904.png-17-VeChain-$3.24--13.45%-$1.67 B-516.05 M VEN *-$61.30 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1684.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1684.png-18-Qtum-$18.33--7.09%-$1.62 B-88.47 M QTUM *-$241.86 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2099.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2099.png-19-ICON-$3.23--16.06%-$1.25 B-387.04 M ICX *-$117.44 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1214.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1214.png-20-Lisk-$11.61--14.19%-$1.20 B-103.11 M LSK *-$24.22 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1808.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1808.png-21-OmiseGO-$10.71--12.88%-$1.09 B-102.04 M OMG *-$32.11 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2083.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2083.png-22-Bitcoin Gold-$59.22--9.90%-$1.00 B-16.90 M BTG-$24.29 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1567.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1567.png-23-Nano-$7.43--15.07%-$990.05 M-133.25 M NANO *-$41.03 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1839.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1839.png-24-Binance Coin-$9.68--7.32%-$958.53 M-99.01 M BNB *-$101.56 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1437.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1437.png-25-Zcash-$233.55--11.30%-$826.63 M-3.54 M ZEC-$47.82 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1229.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1229.png-26-DigixDAO-$350.95--5.72%-$701.90 M-2.00 M DGD *-$29.80 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/693.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/693.png-27-Verge-$0.035423-2.31%-$522.25 M-14.74 B XVG-$57.01 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1789.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1789.png-28-Populous-$13.87--12.49%-$513.09 M-37.00 M PPT *-$1.18 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1230.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1230.png-29-Steem-$1.97--11.99%-$499.78 M-254.01 M STEEM *-$2.40 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1343.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1343.png-30-Stratis-$4.82--11.80%-$476.24 M-98.79 M STRAT *-$8.92 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/372.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/372.png-31-Bytecoin-$0.002588--6.22%-$475.75 M-183.80 B BCN-$3.81 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1274.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1274.png-32-Waves-$4.57--9.15%-$457.32 M-100.00 M WAVES *-$20.30 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1518.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1518.png-33-Maker-$675.98--6.79%-$417.91 M-618.23 K MKR *-$146.65 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/463.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/463.png-34-BitShares-$0.157646--5.78%-$411.71 M-2.61 B BTS *-$7.53 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1042.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1042.png-35-Siacoin-$0.012325--9.10%-$410.38 M-33.30 B SC-$4.92 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2021.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2021.png-36-RChain-$1.10--11.67%-$394.45 M-359.48 M RHOC *-$511.81 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/74.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/74.png-37-Dogecoin-$0.003411--7.62%-$387.85 M-113.71 B DOGE-$5.34 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1104.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1104.png-38-Augur-$33.55--7.83%-$369.03 M-11.00 M REP *-$1.92 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1700.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1700.png-39-Aeternity-$1.57--12.03%-$365.03 M-233.02 M AE *-$3.39 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1759.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1759.png-40-Status-$0.104524--10.17%-$362.75 M-3.47 B SNT *-$23.64 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1168.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1168.png-41-Decred-$49.36--6.98%-$344.87 M-6.99 M DCR-$355.48 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1866.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1866.png-42-Bytom-$0.336648--7.65%-$332.27 M-987.00 M BTM *-$15.88 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2062.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2062.png-43-Aion-$2.72--16.10%-$313.64 M-115.32 M AION *-$11.57 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1925.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1925.png-44-Waltonchain-$12.24--11.69%-$304.65 M-24.90 M WTC *-$3.40 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2566.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2566.png-45-Ontology-$1.24--9.57%-$298.41 M-241.24 M ONT *-$23.47 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1521.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1521.png-46-Komodo-$2.84--9.75%-$295.05 M-104.03 M KMD-$1.08 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2469.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2469.png-47-Zilliqa-$0.044537--9.90%-$294.18 M-6.61 B ZIL *-$12.63 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1320.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1320.png-48-Ardor-$0.281739--11.14%-$281.46 M-999.00 M ARDR *-$2.88 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1903.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1903.png-49-Hshare-$6.40--11.15%-$273.83 M-42.77 M HSR-$24.50 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1896.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1896.png-50-0x-$0.517643--16.23%-$268.95 M-519.56 M ZRX *-$8.01 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1586.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1586.png-51-Ark-$2.65--5.93%-$268.78 M-101.41 M ARK *-$1.98 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1710.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1710.png-52-Veritaseum-$127.03-9.80%-$258.71 M-2.04 M VERI *-$504.76 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2027.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2027.png-53-Cryptonex-$5.69--6.41%-$257.16 M-45.18 M CNX-$176.11 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1934.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1934.png-54-Loopring-$0.426490--1.63%-$243.98 M-572.07 M LRC *-$12.06 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2087.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2087.png-55-KuCoin Shares-$2.61--15.20%-$237.72 M-91.04 M KCS *-$522.10 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/109.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/109.png-56-DigiByte-$0.022267--9.89%-$222.92 M-10.01 B DGB-$1.32 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2213.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2213.png-57-QASH-$0.634035--8.86%-$221.91 M-350.00 M QASH *-$5.51 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/213.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/213.png-58-MonaCoin-$3.66--7.73%-$213.40 M-58.26 M MONA-$1.57 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1785.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1785.png-59-Gas-$20.95--14.13%-$208.53 M-9.95 M GAS *-$4.53 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/541.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/541.png-60-Syscoin-$0.391706--9.68%-$208.30 M-531.78 M SYS-$868.09 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1169.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1169.png-61-PIVX-$3.72--10.41%-$207.45 M-55.83 M PIVX *-$1.06 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1908.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1908.png-62-Nebulas-$5.74--8.72%-$203.93 M-35.50 M NAS *-$8.91 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1697.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1697.png-63-Basic Attenti...-$0.198018--8.14%-$198.02 M-1.00 B BAT *-$3.85 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1455.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1455.png-64-Golem-$0.235531--8.46%-$196.49 M-834.26 M GNT *-$5.99 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1087.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1087.png-65-Factom-$22.36--13.62%-$195.56 M-8.75 M FCT *-$2.72 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2243.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2243.png-66-Dragonchain-$0.799063--14.05%-$190.51 M-238.42 M DRGN *-$1.10 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1817.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1817.png-67-Ethos-$2.38--18.64%-$180.83 M-75.98 M ETHOS *-$5.88 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2137.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2137.png-68-Electroneum-$0.027803--11.50%-$180.78 M-6.50 B ETN-$2.50 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2135.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2135.png-69-Revain-$0.973864--11.52%-$179.63 M-184.45 M R *-$4.15 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1750.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1750.png-70-GXChain-$2.97-3.14%-$178.49 M-60.00 M GXS *-$2.26 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1757.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1757.png-71-FunFair-$0.037111--12.29%-$170.90 M-4.61 B FUN *-$1.33 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1414.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1414.png-72-ZCoin-$37.14--12.00%-$162.18 M-4.37 M XZC-$1.26 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2405.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2405.png-73-IOStoken-$0.019054--14.56%-$160.05 M-8.40 B IOST *-$33.84 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1982.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1982.png-74-Kyber Network-$1.19--15.11%-$159.20 M-134.13 M KNC *-$5.31 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1996.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1996.png-75-SALT-$2.79--7.59%-$155.53 M-55.80 M SALT *-$10.32 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2299.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2299.png-76-aelf-$0.601304--9.85%-$150.33 M-250.00 M ELF *-$16.68 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/118.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/118.png-77-ReddCoin-$0.005074--9.72%-$146.12 M-28.80 B RDD *-$2.54 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/66.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/66.png-78-Nxt-$0.135847--7.39%-$135.71 M-999.00 M NXT *-$1.54 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1975.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1975.png-79-ChainLink-$0.386188--14.22%-$135.17 M-350.00 M LINK *-$10.05 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/291.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/291.png-80-MaidSafeCoin-$0.297872--6.12%-$134.80 M-452.55 M MAID *-$1.14 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/558.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/558.png-81-Emercoin-$3.25--9.92%-$134.70 M-41.51 M EMC-$815.52 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1492.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1492.png-82-Byteball Bytes-$208.50--7.28%-$134.53 M-645.22 K GBYTE *-$249.45 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2071.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2071.png-83-Request Network-$0.198374--18.64%-$131.46 M-662.71 M REQ *-$6.35 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2044.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2044.png-84-Enigma-$1.68--0.88%-$125.99 M-74.84 M ENG *-$11.90 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1993.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1993.png-85-Kin-$0.000165--15.52%-$125.06 M-756.10 B KIN *-$354.69 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2132.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2132.png-86-Power Ledger-$0.343171--12.44%-$124.89 M-363.93 M POWR *-$6.84 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1876.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1876.png-87-Dentacoin-$0.000382--10.31%-$124.08 M-325.23 B DCN *-$70.98 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2496.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2496.png-88-Polymath-$0.504523--16.80%-$121.09 M-240.00 M POLY *-$865.21 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2544.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2544.png-89-Nucleus Vision-$0.030461--14.15%-$121.05 M-3.97 B NCASH *-$15.71 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1826.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1826.png-90-Particl-$13.22--9.53%-$117.83 M-8.91 M PART *-$233.57 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1727.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1727.png-91-Bancor-$2.85--10.10%-$115.88 M-40.64 M BNT *-$6.50 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1758.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1758.png-92-TenX-$1.09--9.79%-$113.74 M-104.66 M PAY *-$4.17 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1955.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1955.png-93-Neblio-$8.71--7.93%-$112.63 M-12.93 M NEBL *-$12.53 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2043.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2043.png-94-Cindicator-$0.076566--14.08%-$110.71 M-1.45 B CND *-$1.86 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1772.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1772.png-95-Storj-$0.817586--3.78%-$109.09 M-133.43 M STORJ *-$7.50 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/467.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/467.png-96-BitcoinDark-$83.49-1.69%-$107.61 M-1.29 M BTCD-$238.03 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/789.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/789.png-97-Nexus-$1.91--12.68%-$107.13 M-56.16 M NXS-$1.25 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/1828.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1828.png-98-SmartCash-$0.128727--13.92%-$105.25 M-817.61 M SMART-$130.24 K--
+https://s2.coinmarketcap.com/static/img/coins/16x16/99.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/99.png-99-Vertcoin-$2.40--3.63%-$104.50 M-43.46 M VTC-$3.83 M--
+https://s2.coinmarketcap.com/static/img/coins/16x16/2139.png-https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2139.png-100-MinexCoin-$28.96--12.58%-$101.54 M-3.51 M MNX-$126.38 K--
