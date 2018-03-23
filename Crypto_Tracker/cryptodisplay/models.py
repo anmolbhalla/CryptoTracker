@@ -2,7 +2,6 @@ from django.db import models
 
 
 class Cryptos(models.Model):
-
     crypto_number = models.CharField(max_length=10, null=True)
     crypto_logo = models.CharField(max_length=1000)
     crypto_name = models.CharField(max_length=500)

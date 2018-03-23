@@ -32,8 +32,13 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cryptodisplay/models.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="216">
+              <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+=======
             <state relative-caret-position="198">
               <caret line="11" column="21" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="11" selection-end-column="21" />
+>>>>>>> 65493e6d9a35b046cf3a2e6c7dc38d512d81676d
               <folding />
             </state>
           </provider>
@@ -131,9 +136,18 @@
         <option value="$PROJECT_DIR$/cryptodisplay/update_db.py" />
         <option value="$PROJECT_DIR$/cryptodisplay/models.py" />
         <option value="$PROJECT_DIR$/../Crawler/CryptoTracker.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/cryptodisplay/Update_database.py" />
         <option value="$PROJECT_DIR$/cryptodisplay/views.py" />
         <option value="$PROJECT_DIR$/cryptodisplay/urls.py" />
+=======
+        <option value="$PROJECT_DIR$/cryptodisplay/views.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/cryptodisplay/models.py" />
+=======
+        <option value="$PROJECT_DIR$/cryptodisplay/Update_database.py" />
+>>>>>>> 65493e6d9a35b046cf3a2e6c7dc38d512d81676d
+>>>>>>> 6d43058d20c69daa64d275f5ef2aa06aec76c369
       </list>
     </option>
   </component>
@@ -455,6 +469,9 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/templates/cryptodisplay/home.html">
+=======
     <entry file="file://$PROJECT_DIR$/cryptodisplay/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -467,6 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/cryptodisplay/home.html" />
     <entry file="file://$PROJECT_DIR$/Crypto_Tracker/wsgi.py">
+>>>>>>> 65493e6d9a35b046cf3a2e6c7dc38d512d81676d
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -501,20 +519,49 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/cryptodisplay/templates/cryptodisplay/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+=======
     <entry file="file://$PROJECT_DIR$/Crypto_Tracker/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-899">
           <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+>>>>>>> 65493e6d9a35b046cf3a2e6c7dc38d512d81676d
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Crypto_Tracker/urls.py">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/cryptodisplay/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding />
+=======
+    <entry file="file://$PROJECT_DIR$/cryptodisplay/Update_database.py">
+>>>>>>> 6d43058d20c69daa64d275f5ef2aa06aec76c369
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding>
             <element signature="e#638#670#0" expanded="true" />
+          </folding>
+>>>>>>> 65493e6d9a35b046cf3a2e6c7dc38d512d81676d
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptodisplay/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
