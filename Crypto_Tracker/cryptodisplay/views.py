@@ -5,7 +5,7 @@ from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
 from .models import Cryptos
 
-def index (request):
+def Detail_Display (request):
 
     cryptos_detail = Cryptos.objects.order_by('id')
     template = loader.get_template('cryptodisplay/home.html')

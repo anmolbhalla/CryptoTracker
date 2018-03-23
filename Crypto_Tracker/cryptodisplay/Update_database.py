@@ -24,4 +24,4 @@ def Update_Database () :
 
             count += 1
 
-Update_Database()
+print('done')
