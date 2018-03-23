@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Cryptos(models.Model):
-
+    crypto_id=models.CharField(max_length=200)
     crypto_logo=models.CharField(max_length=1000)
     crypto_name=models.CharField(max_length=500)
     crypto_market_cap=models.CharField(max_length=500)
