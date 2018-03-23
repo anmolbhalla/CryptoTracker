@@ -1,1 +1,6 @@
-hello
+{% if cryptos_detail %}
+
+    {% for cryptos in cryptos_detail %}
+        {{ cryptos.crypto_name }}
+    {% endfor %}
+{% endif %}
