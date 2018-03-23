@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
+import time
 
 
 def Coin_details():
@@ -22,6 +23,7 @@ def Coin_details():
     table=driver.find_elements_by_xpath('//*[@id="currencies"]')
     image_logo = driver.find_elements_by_class_name('currency-logo-sprite')
     image_graph = driver.find_elements_by_class_name('sparkline')
+
     for i in range(0,len(table)):
 
          tag = table[i].find_elements_by_tag_name('tr')
@@ -40,7 +42,23 @@ def Coin_details():
 
     data_file.close()
 
+def Coin_Links() :
+
+    file_data=open('coin_links.txt','w')
+
+    coin_links=driver.find_elements_by_class_name('currency-name-container')
+
+    for i in range(0,len(coin_links)):
+
+        individual_link=coin_links[i].get_attribute('href')
+        file_data.writelines(str(individual_link + '\n'))
+
+    file_data.close()
+
+
+
 if __name__ == '__main__':
+
     display = Display(visible=0, size=(800, 800))
     display.start()
     driver = webdriver.Chrome()
@@ -48,3 +66,4 @@ if __name__ == '__main__':
     driver.get(url)
     timeout = 200
     Coin_details()
+    Coin_Links()
