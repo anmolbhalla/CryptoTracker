@@ -1,5 +1,6 @@
 import django
 import os
+import time
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "Crypto_Tracker.settings")
 django.setup()
 
@@ -9,7 +10,7 @@ def Update_Database () :
 
     delete = Cryptos.objects.all().delete()
 
-    with open('/home/aryan/Documents/Github/CryptoTracker/Crawler/crypto_data.txt') as openfileobject:
+    with open('/home/anmol/Documents/Github/CryptoTracker/Crawler/crypto_data.txt') as openfileobject:
         count = 1
 
         for line in openfileobject:
@@ -24,4 +25,7 @@ def Update_Database () :
 
             count += 1
 
-print('done')
+while (True) :
+
+    Update_Database()
+    time.sleep(120)

@@ -64,5 +64,10 @@ if __name__ == '__main__':
     url = 'https://coinmarketcap.com/'
     driver.get(url)
     timeout = 200
-    Coin_details()
-    Coin_Links()
+
+    while (True) :
+
+        Coin_details()
+        Coin_Links()
+        time.sleep(150)
+        driver.refresh()
