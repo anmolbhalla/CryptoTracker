@@ -16,5 +16,11 @@ def Detail_Display (request):
 
     return HttpResponse(template.render(context, request))
 
+def get_log(request):
+    cryptos_detail = Cryptos.objects.order_by('id')
+    template = loader.get_template('cryptodisplay/table.html')
+    context = {
+        'cryptos_detail': cryptos_detail,
+    }
 
-# Create your views here.
+    return HttpResponse(template.render(context, request))
