@@ -8,7 +8,7 @@ from .models import Cryptos
 def Detail_Display (request):
 
     cryptos_detail = Cryptos.objects.order_by('id')
-    template = loader.get_template('cryptodisplay/home.html')
+    template = loader.get_template('cryptodisplay/index.html')
     context = {
         'cryptos_detail': cryptos_detail,
     }

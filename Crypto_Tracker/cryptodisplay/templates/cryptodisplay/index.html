@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static %}
+<head>
+  <meta charset="utf-8">
+  <title>Regna Bootstrap Template</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="{% static 'cryptodisplay/favicon.png' %}" rel="icon">
+  <link href="{% static 'cryptodisplay/about-img.jpg' %}" rel="icon">
+  <!-- Google Fonts -->
+  <link href="{% static 'cryptodisplay/fonts.css' %}" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="{% static 'cryptodisplay/lib/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="{% static 'cryptodisplay/lib/font-awesome/css/font-awesome.min.css.css' %}" rel="stylesheet">
+  <link href="{% static  'cryptodisplay/lib/animate/animate.min.css'%}"rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="{% static  'cryptodisplay/style.css'%}" rel="stylesheet">
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+  <!-- =======================================================
+    Theme Name: Regna
+    Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body>
+
+  <!--==========================
+  Header
+  ============================-->
+  <header id="header">
+    <div class="container">
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#hero">Home</a></li>
+          <li><a href="#team">Team</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+
+  <!--==========================
+    Hero Section
+  ============================-->
+  <section id="hero">
+    <div class="hero-container">
+
+      <div class='console-container'><span id='text'></span><div class='console-underscore' id='console'>&#95;</div></div> -->
+
+      <a href="#about" class="btn-get-started">Get Started</a>
+    </div>
+  </section><!-- #hero -->
+
+  <main id="main">
+
+    <!--==========================
+      About Us Section
+    ============================-->
+    <section id="about">
+      <h1><span class="blue">&lt;</span>Coin Details<span class="blue">&gt;</span> <span class="yellow"></span></h1>
+
+<div id="output_box">
+{% if cryptos_detail %}
+
+<table class="container">
+
+
+
+	<thead>
+		<tr>
+			<th><b>S.no</b></th>
+            <th><b>Name</b></th>
+            <th><b>Market Cap</b></th>
+            <th><b>Price</b></th>
+            <th><b>Volume(24h)</b></th>
+            <th><b>Change(24h)</b></th>
+            <th><b>Graph(7d)</b></th>
+		</tr>
+	</thead>
+
+	<tbody>
+
+        {% for cryptos in cryptos_detail %}
+        <tr>
+            <td>
+                {{ cryptos.id }}
+            </td>
+            <td>
+                <img src="{{ cryptos.crypto_logo }}">
+            {{ cryptos.crypto_name }}
+            </td>
+            <td>
+                {{ cryptos.crypto_market_cap }}
+            </td>
+            <td>
+            {{ cryptos.crypto_price }}
+            </td>
+            <td>
+            {{ cryptos.crypto_volume }}
+            </td>
+            <td>
+            {{ cryptos.crypto_change }}
+            </td>
+        <td>
+            <img src="{{ cryptos.crypto_graph }}">
+        </td>
+        </tr>
+    {% endfor %}
+
+	</tbody>
+
+</table>
+{% endif %}
+          <div class="col-lg-6 background order-lg-2 order-1 wow fadeInRight"></div>
+</div>
+
+
+
+    </section><!-- #about -->
+
+  <script>
+$(document).ready(function() {
+  $.ajaxSetup({ cache: false }); // This part addresses an IE bug.  without it, IE will only load the first number and will never refresh
+  var my_refresh = setInterval(function() {
+    $('#output_box').load('/home/get_log/');
+  }, 10000); // the "1000"
+});
+
+</script>
+
+    <!--==========================
+      Facts Section
+    ============================-->
+    <section id="facts">
+      <div class="container wow fadeIn">
+        <div class="section-header">
+          <h3 class="section-title">Top Coins</h3>
+          </div>
+        <div class="row counters">
+
+  				<div class="col-lg-3 col-6 text-center">
+
+            <span data-toggle="counter-up">8,597.35</span>
+            <br>
+            <p> <img src = 'https://i-invdn-com.akamaized.net/ico_flags/80x80/bitcoin.png'> <br><br>Bitcoin <br><br><br>
+            (BTC)</p>
+  				</div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">522.56</span>
+            <br>
+            <p> <img src ='https://i-invdn-com.akamaized.net/ico_flags/80x80/ethereum.png' ><br><br>
+            Ethereum<br><br><br>
+            (ETH)</p>
+  				</div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">0.639911</span>
+            <br>
+            <p> <img src = 'https://i-invdn-com.akamaized.net/ico_flags/80x80/ripple.png' ><br><br> Ripple <br><br><br>
+            (XRP)</p>
+  				</div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">159.41</span>
+            <br>
+            <p> <img src = 'https://i-invdn-com.akamaized.net/ico_flags/80x80/litecoin.png' ><br><br> Litecoin <br><br><br>
+             (LTC) </p>
+  				</div>
+
+  			</div>
+
+      </div>
+    </section><!-- #facts -->
+
+    <!--==========================
+      Services Section
+    ============================-->
+    <section id="services">
+      <div class="container wow fadeIn">
+        <div class="section-header">
+          <h3 class="section-title">Services</h3>
+          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="box">
+              <div class="icon"><a href=""><i class="fa fa-desktop"></i></a></div>
+              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+            <div class="box">
+              <div class="icon"><a href=""><i class="fa fa-bar-chart"></i></a></div>
+              <h4 class="title"><a href="">Dolor Sitema</a></h4>
+              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+            <div class="box">
+              <div class="icon"><a href=""><i class="fa fa-paper-plane"></i></a></div>
+              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="box">
+              <div class="icon"><a href=""><i class="fa fa-photo"></i></a></div>
+              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+            <div class="box">
+              <div class="icon"><a href=""><i class="fa fa-road"></i></a></div>
+              <h4 class="title"><a href="">Nemo Enim</a></h4>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+            <div class="box">
+              <div class="icon"><a href=""><i class="fa fa-shopping-bag"></i></a></div>
+              <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
+              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- #services -->
+
+    <!--==========================
+      Portfolio Section
+    ============================-->
+    <section id="portfolio">
+      <div class="container wow fadeInUp">
+        <div class="section-header">
+          <h3 class="section-title">Portfolio</h3>
+          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </div>
+        <div class="row">
+
+          <div class="col-lg-12">
+            <ul id="portfolio-flters">
+              <li data-filter=".filter-app, .filter-card, .filter-logo, .filter-web" class="filter-active">All</li>
+              <li data-filter=".filter-app">App</li>
+              <li data-filter=".filter-card">Card</li>
+              <li data-filter=".filter-logo">Logo</li>
+              <li data-filter=".filter-web">Web</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row" id="portfolio-wrapper">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/app1.jpg' %}" alt="">
+              <div class="details">
+                <h4>App 1</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-web">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/web2.jpg' %}" alt="">
+              <div class="details">
+                <h4>Web 2</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/app3.jpg' %}" alt="">
+              <div class="details">
+                <h4>App 3</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/card1.jpg' %}" alt="">
+              <div class="details">
+                <h4>Card 1</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+            <a href="">
+              <img src="/cryptodisplay/static/cryptodisplay/portfolio/card2.jpg" alt="">
+              <div class="details">
+                <h4>Card 2</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-web">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/web3.jpg' %}" alt="">
+              <div class="details">
+                <h4>Web 3</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/card3.jpg' %}" alt="">
+              <div class="details">
+                <h4>Card 3</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/app2.jpg' %}" alt="">
+              <div class="details">
+                <h4>App 2</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/logo1.jpg' %}" alt="">
+              <div class="details">
+                <h4>Logo 1</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/logo3.jpg' %}" alt="">
+              <div class="details">
+                <h4>Logo 3</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-web">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/web1.jpg' %}" alt="">
+              <div class="details">
+                <h4>Web 1</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
+            <a href="">
+              <img src="{% static 'cryptodisplay/portfolio/logo2.jpg' %}" alt="">
+              <div class="details">
+                <h4>Logo 2</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- #portfolio -->
+
+    <!--==========================
+      Team Section
+    ============================-->
+    <section id="team">
+      <div class="container wow fadeInUp">
+        <div class="section-header">
+          <h3 class="section-title">Team</h3>
+          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </div>
+        <div class="row">
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="{% static 'cryptodisplay/team-1.jpg' %}" alt=""></div>
+              <h4>Walter White</h4>
+              <span>Chief Executive Officer</span>
+              <div class="social">
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-google-plus"></i></a>
+                <a href=""><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="{% static 'cryptodisplay/team-2.jpg' %}" alt=""></div>
+              <h4>Sarah Jhinson</h4>
+              <span>Product Manager</span>
+              <div class="social">
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-google-plus"></i></a>
+                <a href=""><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="{% static 'cryptodisplay/team-3.jpg' %}" alt=""></div>
+              <h4>William Anderson</h4>
+              <span>CTO</span>
+              <div class="social">
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-google-plus"></i></a>
+                <a href=""><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="{% static 'cryptodisplay/team-4.jpg' %}" alt=""></div>
+              <h4>Amanda Jepson</h4>
+              <span>Accountant</span>
+              <div class="social">
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-google-plus"></i></a>
+                <a href=""><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- #team -->
+
+
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="{% static 'cryptodisplay/lib/jquery/jquery.min.js' %}"></script>
+  <script src="{% static 'cryptodisplay/lib/jquery/jquery-migrate.min.js' %}"></script>
+  <script src="{% static 'cryptodisplay/lib/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+  <script src="{% static 'cryptodisplay/lib/easing/easing.min.js' %}"></script>
+  <script src="{% static 'cryptodisplay/lib/wow/wow.min.js'%}"></script>
+
+  <script src="{% static 'cryptodisplay/lib/waypoints/waypoints.min.js' %}"></script>
+  <script src="{% static 'cryptodisplay/lib/counterup/counterup.min.js' %}"></script>
+  <script src="{% static 'cryptodisplay/lib/superfish/hoverIntent.js'%}"></script>
+  <script src="{% static 'cryptodisplay/lib/superfish/superfish.min.js'%}"></script>
+
+
+  <!-- Template Main Javascript File -->
+  <script src="{% static 'cryptodisplay/main.js' %}"></script>
+  </main>
+</body>
+</html>

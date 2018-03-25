@@ -1,16 +1,25 @@
-{% if cryptos_detail %}
-    <table border="2">
-    <tr>
-        <td><b>S.no</b></td>
-        <td><b>Name</b></td>
-        <td><b>Market Cap</b></td>
-        <td><b>Price</b></td>
-        <td><b>Volume(24h)</b></td>
-        <td><b>Change(24h)</b></td>
-        <td><b>Graph(7d)</b></td>
-    </tr>
 
-    {% for cryptos in cryptos_detail %}
+{% if cryptos_detail %}
+
+<table class="container">
+
+
+
+	<thead>
+		<tr>
+			<th><b>S.no</b></th>
+            <th><b>Name</b></th>
+            <th><b>Market Cap</b></th>
+            <th><b>Price</b></th>
+            <th><b>Volume(24h)</b></th>
+            <th><b>Change(24h)</b></th>
+            <th><b>Graph(7d)</b></th>
+		</tr>
+	</thead>
+
+	<tbody>
+
+        {% for cryptos in cryptos_detail %}
         <tr>
             <td>
                 {{ cryptos.id }}
@@ -36,5 +45,9 @@
         </td>
         </tr>
     {% endfor %}
-    </table>
+
+	</tbody>
+
+</table>
 {% endif %}
+          <div class="col-lg-6 background order-lg-2 order-1 wow fadeInRight"></div>
