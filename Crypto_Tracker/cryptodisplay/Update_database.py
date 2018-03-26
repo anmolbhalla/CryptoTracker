@@ -11,10 +11,14 @@ def Update_Database () :
     #delete = Cryptos.objects.all().delete()
 
     with open('/home/aryan/Documents/Github/CryptoTracker/Crawler/crypto_data.txt') as openfileobject:
+<<<<<<< HEAD
         count = 1
+=======
+        #count = 1
 
         for line in openfileobject:
             line_split = line.split('***')
+            #print(line_split[2])
 
             name_crypto_id = Cryptos.objects.get(id=line_split[2])
             print(name_crypto_id.id)
@@ -40,8 +44,8 @@ def Update_Database () :
                 name_crypto_id.save()
 
 
-            count += 1
 
 #while (True) :
 Update_Database()
 #time.sleep(120)
+

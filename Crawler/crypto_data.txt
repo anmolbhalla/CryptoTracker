@@ -1,3 +1,40 @@
+<<<<<<< HEAD
+https://s2.coinmarketcap.com/static/img/coins/16x16/1.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1.png***1***Bitcoin***$8,924.27***4.94%***$151.15 B***16.94 M BTC***$6.17 B******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1027.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1027.png***2***Ethereum***$540.76***3.69%***$53.20 B***98.38 M ETH***$1.42 B******
+https://s2.coinmarketcap.com/static/img/coins/16x16/52.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/52.png***3***Ripple***$0.659666***3.77%***$25.79 B***39.09 B XRP ****$460.93 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1831.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1831.png***4***Bitcoin Cash***$1,013.20***3.00%***$17.26 B***17.03 M BCH***$273.92 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/2.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2.png***5***Litecoin***$165.34***3.67%***$9.22 B***55.77 M LTC***$314.01 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1765.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1765.png***6***EOS***$7.03***5.45%***$5.26 B***748.36 M EOS ****$637.95 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/2010.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2010.png***7***Cardano***$0.190321***-0.46%***$4.93 B***25.93 B ADA ****$151.62 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1376.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1376.png***8***NEO***$68.55***4.11%***$4.46 B***65.00 M NEO ****$125.27 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/512.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/512.png***9***Stellar***$0.239993***5.04%***$4.45 B***18.55 B XLM ****$50.71 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1720.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1720.png***10***IOTA***$1.38***8.06%***$3.83 B***2.78 B MIOTA ****$30.26 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/131.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/131.png***11***Dash***$458.98***14.58%***$3.66 B***7.96 M DASH***$115.86 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/328.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/328.png***12***Monero***$214.23***5.80%***$3.40 B***15.86 M XMR***$37.01 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1958.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1958.png***13***TRON***$0.047541***31.91%***$3.13 B***65.75 B TRX ****$531.81 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/873.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/873.png***14***NEM***$0.283395***1.33%***$2.55 B***9.00 B XEM ****$54.65 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/825.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/825.png***15***Tether***$1.00***0.38%***$2.29 B***2.29 B USDT ****$1.87 B******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1321.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1321.png***16***Ethereum Classic***$18.99***2.51%***$1.91 B***100.72 M ETC***$166.11 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1904.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1904.png***17***VeChain***$3.56***8.16%***$1.84 B***517.98 M VEN ****$57.18 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1684.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1684.png***18***Qtum***$18.47***1.24%***$1.63 B***88.47 M QTUM ****$181.54 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/2099.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2099.png***19***ICON***$3.92***6.88%***$1.52 B***387.04 M ICX ****$456.43 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1214.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1214.png***20***Lisk***$12.23***5.25%***$1.26 B***103.15 M LSK ****$22.62 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1808.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1808.png***21***OmiseGO***$11.64***6.62%***$1.19 B***102.04 M OMG ****$33.78 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1839.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1839.png***22***Binance Coin***$11.97***21.71%***$1.18 B***99.01 M BNB ****$195.40 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1567.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1567.png***23***Nano***$8.04***5.99%***$1.07 B***133.25 M NANO ****$42.56 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/2083.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2083.png***24***Bitcoin Gold***$60.96***2.53%***$1.03 B***16.90 M BTG***$25.47 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1437.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1437.png***25***Zcash***$253.08***7.98%***$897.87 M***3.55 M ZEC***$49.45 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1229.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1229.png***26***DigixDAO***$351.55***0.46%***$703.10 M***2.00 M DGD ****$21.85 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/693.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/693.png***27***Verge***$0.043368***19.92%***$639.59 M***14.75 B XVG***$78.75 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1789.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1789.png***28***Populous***$15.26***6.32%***$564.84 M***37.00 M PPT ****$1.92 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1343.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1343.png***29***Stratis***$5.26***7.16%***$519.65 M***98.79 M STRAT ****$8.03 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/372.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/372.png***30***Bytecoin***$0.002802***8.45%***$515.09 M***183.80 B BCN***$4.41 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1230.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1230.png***31***Steem***$2.02***2.24%***$514.31 M***254.19 M STEEM ****$6.12 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1274.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1274.png***32***Waves***$4.82***4.78%***$482.04 M***100.00 M WAVES ****$21.36 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/463.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/463.png***33***BitShares***$0.168398***6.44%***$439.81 M***2.61 B BTS ****$5.53 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1042.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1042.png***34***Siacoin***$0.013168***5.48%***$438.75 M***33.32 B SC***$7.04 M******
+https://s2.coinmarketcap.com/static/img/coins/16x16/1518.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1518.png***35***Maker***
+=======
 https://s2.coinmarketcap.com/static/img/coins/16x16/1.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1.png***1***Bitcoin***$137,285,327,755***$8,103.87***$5,153,400,000***16,940,712 BTC***-5.45%******
 https://s2.coinmarketcap.com/static/img/coins/16x16/1027.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1027.png***2***Ethereum***$47,804,265,540***$485.67***$1,437,280,000***98,429,521 ETH***-6.98%******
 https://s2.coinmarketcap.com/static/img/coins/16x16/52.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/52.png***3***Ripple***$23,484,175,998***$0.600707***$342,234,000***39,094,227,299 XRP ****-5.93%******
@@ -98,3 +135,4 @@ https://s2.coinmarketcap.com/static/img/coins/16x16/1826.png***https://s2.coinma
 https://s2.coinmarketcap.com/static/img/coins/16x16/2043.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/2043.png***98***Cindicator***$104,657,472***$0.072378***$2,464,510***1,445,976,590 CND ****-9.49%******
 https://s2.coinmarketcap.com/static/img/coins/16x16/1772.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1772.png***99***Storj***$103,659,866***$0.776912***$6,004,030***133,425,493 STORJ ****-7.39%******
 https://s2.coinmarketcap.com/static/img/coins/16x16/1788.png***https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1788.png***100***Metal***$101,755,625***$4.55***$23,844,900***22,342,464 MTL ****-15.73%******
+>>>>>>> a4252c9c6b8ea3fccea311030c1edba3e62ead11

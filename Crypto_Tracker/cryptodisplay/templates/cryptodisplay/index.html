@@ -3,7 +3,7 @@
 {% load static %}
 <head>
   <meta charset="utf-8">
-  <title>Regna Bootstrap Template</title>
+  <title>Crypto Tracker</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -34,6 +34,16 @@
 </head>
 
 <body>
+<style>
+    .error
+{
+  color: red;
+}
+.success
+{
+  color: black;
+}
+</style>
 
   <!--==========================
   Header
@@ -73,7 +83,7 @@
 <div id="output_box">
 {% if cryptos_detail %}
 
-<table class="container">
+<table class="container" id="table_load">
 
 
 
@@ -137,6 +147,11 @@ $(document).ready(function() {
     $('#output_box').load('/home/get_log/');
   }, 10000); // the "1000"
 });
+if
+if (reponseText == "NOT_FOUND")
+   document.getElementById("table_load").className = "error";
+else
+   document.getElementById("table_load").className = "success";
 
 </script>
 
