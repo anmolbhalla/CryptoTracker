@@ -11,6 +11,7 @@ class Cryptos(models.Model):
     crypto_supply = models.CharField(max_length=500)
     crypto_change = models.CharField(max_length=500)
     crypto_graph = models.CharField(max_length=1000)
+    value_change=models.CharField(max_length=100)
 
 
 

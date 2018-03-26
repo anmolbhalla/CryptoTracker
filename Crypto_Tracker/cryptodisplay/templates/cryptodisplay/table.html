@@ -20,7 +20,36 @@
 	<tbody>
 
         {% for cryptos in cryptos_detail %}
-        <tr>
+            {% if cryptos.value_change == '1' %}
+        <tr bgcolor="red">
+            <td>
+                {{ cryptos.id }}
+            </td>
+            <td>
+                <img src="{{ cryptos.crypto_logo }}">
+            {{ cryptos.crypto_name }}
+            </td>
+            <td>
+                {{ cryptos.crypto_market_cap }}
+            </td>
+            <td>
+                <font color="red">
+            {{ cryptos.crypto_price }}
+                </font>
+            </td>
+            <td>
+            {{ cryptos.crypto_volume }}
+            </td>
+            <td>
+            {{ cryptos.crypto_change }}
+            </td>
+        <td>
+            <img src="{{ cryptos.crypto_graph }}">
+        </td>
+        </tr>
+
+        {% else %}
+                        <tr>
             <td>
                 {{ cryptos.id }}
             </td>
@@ -44,6 +73,10 @@
             <img src="{{ cryptos.crypto_graph }}">
         </td>
         </tr>
+
+
+
+    {% endif %}
     {% endfor %}
 
 	</tbody>
