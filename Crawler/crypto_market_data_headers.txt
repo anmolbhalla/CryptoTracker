@@ -1,0 +1,32 @@
+Bitcoin (BTC)
+$8,132.05USD
+(-5.08%)
+1.00000000 BTC
+(0.00%)
+Market Cap
+$137,763,123,622 USD
+16,940,762 BTC
+Volume (24h)
+$5,176,290,000 USD
+639,496 BTC
+Circulating Supply
+16,940,762 BTC
+Max Supply
+21,000,000 BTC
+
+
+Ethereum (ETH)
+$487.47USD
+(-6.64%)
+0.06024650 BTC
+(-1.63%)
+Market Cap
+$47,981,464,233 USD
+5,930,049 BTC
+Volume (24h)
+$1,445,520,000 USD
+178,652 BTC
+Circulating Supply
+98,429,775 ETH
+
+
