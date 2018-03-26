@@ -12,10 +12,12 @@ def Coin_details():
     data_file=open('crypto_data.txt','w')
 
     try:
+
         element_present = EC.presence_of_element_located((By.XPATH, '/html/body/div[4]/div/div[1]/div[2]'))
         WebDriverWait(driver, timeout).until(element_present)
 
     except TimeoutException:
+
         print("May be you are not connected to internet")
 
 
@@ -28,6 +30,7 @@ def Coin_details():
          tag = table[i].find_elements_by_tag_name('tr')
 
          for i in range(0,100):
+
                 src_logo = image_logo[i].get_attribute('src')
                 src_graph = image_graph[i].get_attribute('src')
                 data_file.writelines(str(src_logo) + '***')
@@ -36,6 +39,7 @@ def Coin_details():
                 table_data=tag[i+1].find_elements_by_tag_name('td')
 
                 for i in table_data:
+
                     data_file.writelines(str(i.text) + '***')
                 data_file.writelines('\n')
 
