@@ -1,126 +1,810 @@
-Iconomi (ICN)-1-
-Binance-
-ICN/BTC-
-$442,973-
-$0.998144-
-47.40%-
-Iconomi (ICN)-2-
-Kraken-
-ICN/BTC-
-$122,726-
-$0.995151-
-13.13%-
-Iconomi (ICN)-3-
-Liqui-
-ICN/USDT-
-$81,831-
-$1.01-
-8.76%-
-Iconomi (ICN)-4-
-Liqui-
-ICN/BTC-
-$77,926-
-$1.00-
-8.34%-
-Iconomi (ICN)-5-
-Liqui-
-ICN/ETH-
-$74,606-
-$1.00-
-7.98%-
-Iconomi (ICN)-6-
-Binance-
-ICN/ETH-
-$72,939-
-$0.997902-
-7.80%-
-Iconomi (ICN)-7-
-Kraken-
-ICN/ETH-
-$49,162-
-$0.995321-
-5.26%-
-Iconomi (ICN)-8-
-Livecoin-
-ICN/BTC-
-$5,609-
-$1.03-
-0.60%-
-Iconomi (ICN)-9-
-OKEx-
-ICN/USDT-
-$4,502-
-$1.23-
-0.48%-
-Iconomi (ICN)-10-
-HitBTC-
-ICN/BTC-
-$875-
-$1.03-
-0.09%-
-Iconomi (ICN)-11-
-OKEx-
-ICN/BTC-
-$491-
-$1.06-
-0.05%-
-Iconomi (ICN)-12-
-Bitsane-
-ICN/BTC-
-$371-
-$1.04-
-0.04%-
-Iconomi (ICN)-13-
-Bitsane-
-ICN/BCH-
-$303-
-$1.05-
-0.03%-
-Iconomi (ICN)-14-
-Mercatox-
-ICN/BTC-
-$197-
-$0.680424-
-0.02%-
-Iconomi (ICN)-15-
-Bitsane-
-ICN/LTC-
-$59-
-$0.971710-
-0.01%-
-Iconomi (ICN)-16-
-Bitsane-
-ICN/ETH-
-$46-
-$1.02-
-0.00%-
-Iconomi (ICN)-17-
-Bitsane-
-ICN/EUR-
-$29-
-$1.16-
-0.00%-
-Iconomi (ICN)-18-
-Bitsane-
-ICN/XRP-
-$10-
-$0.978064-
-0.00%-
-Iconomi (ICN)-19-
-Tux Exchange-
-ICN/BTC-
-$0-
-$1.05-
-0.00%-
-Iconomi (ICN)-20-
-OKEx-
-ICN/ETH-
-$0-
-$0.856102-
-0.00%-
-Iconomi (ICN)-21-
-IDEX-
-ICN/ETH-
-$0-
-$2.43-
-0.00%-
+
+1***Bitcoin (BTC)***Bitfinex***BTC/USD***$354,801,000***$8,091.30***6.85%***
+2***Bitcoin (BTC)***Binance***BTC/USDT***$293,421,000***$8,117.47***5.67%***
+3***Bitcoin (BTC)***OKEx***BTC/USDT***$242,229,000***$8,128.82***4.68%***
+4***Bitcoin (BTC)***Huobi***BTC/USDT***$156,886,000***$8,139.71***3.03%***
+5***Bitcoin (BTC)***bitFlyer***BTC/JPY***$145,192,000***$8,165.86***2.80%***
+6***Bitcoin (BTC)***Bitstamp***BTC/USD***$128,139,000***$8,090.99***2.48%***
+7***Bitcoin (BTC)***Binance***TRX/BTC***$108,030,000***$8,110.34***2.09%***
+8***Bitcoin (BTC)***GDAX***BTC/USD***$107,830,000***$8,088.81***2.08%***
+9***Bitcoin (BTC)***Upbit***BTC/KRW***$103,572,000***$8,365.65***2.00%***
+10***Bitcoin (BTC)***BTCBOX***BTC/JPY***$88,487,600***$8,179.74***1.71%***
+11***Bitcoin (BTC)***Bithumb***BTC/KRW***$85,440,700***$8,355.44***1.65%***
+12***Bitcoin (BTC)***Binance***ETH/BTC***$73,006,600***$8,099.83***1.41%***
+13***Bitcoin (BTC)***BTCC***BTC/USD***$67,240,000***$8,200.00***1.30%***
+14***Bitcoin (BTC)***Kraken***BTC/USD***$62,429,900***$8,104.00***1.21%***
+15***Bitcoin (BTC)***Kraken***BTC/EUR***$59,538,900***$8,117.12***1.15%***
+16***Bitcoin (BTC)***OKEx***ETH/BTC***$55,913,800***$8,093.11***1.08%***
+17***Bitcoin (BTC)***Binance***QTUM/BTC***$55,319,300***$8,152.15***1.07%***
+18***Bitcoin (BTC)***Upbit***TRX/BTC***$50,428,600***$8,078.79***0.97%***
+19***Bitcoin (BTC)***Binance***BNB/BTC***$49,863,500***$8,136.17***0.96%***
+20***Bitcoin (BTC)***HitBTC***BTC/USDT***$46,988,900***$8,233.07***0.91%***
+21***Bitcoin (BTC)***OKEx***LTC/BTC***$46,717,900***$8,125.87***0.90%***
+22***Bitcoin (BTC)***HitBTC***BCH/BTC***$42,777,600***$8,106.98***0.83%***
+23***Bitcoin (BTC)***Lbank***VEN/BTC***$41,328,800***$8,084.68***0.80%***
+24***Bitcoin (BTC)***Lbank***QTUM/BTC***$40,948,200***$8,110.11***0.79%***
+25***Bitcoin (BTC)***Bit-Z***ETH/BTC***$40,197,700***$8,094.85***0.78%***
+26***Bitcoin (BTC)***Binance***ICX/BTC***$39,136,700***$8,217.08***0.76%***
+27***Bitcoin (BTC)***Gemini***BTC/USD***$38,774,300***$8,089.00***0.75%***
+28***Bitcoin (BTC)***Binance***IOST/BTC***$35,535,700***$8,053.09***0.69%***
+29***Bitcoin (BTC)***Binance***QLC/BTC***$35,462,200***$8,228.96***0.69%***
+30***Bitcoin (BTC)***Bittrex***TRX/BTC***$35,264,300***$8,078.79***0.68%***
+31***Bitcoin (BTC)***OKEx***BCH/BTC***$33,957,300***$8,113.12***0.66%***
+32***Bitcoin (BTC)***CoinBene***BTC/USDT***$33,286,600***$8,132.09***0.64%***
+33***Bitcoin (BTC)***itBit***BTC/USD***$33,263,400***$8,105.00***0.64%***
+34***Bitcoin (BTC)***Lbank***BCC/BTC***$31,497,300***$8,095.68***0.61%***
+35***Bitcoin (BTC)***Binance***XRP/BTC***$31,455,500***$8,113.00***0.61%***
+36***Bitcoin (BTC)***Binance***ONT/BTC***$29,778,300***$8,090.03***0.58%***
+37***Bitcoin (BTC)***OKEx***ETC/BTC***$28,114,900***$8,113.59***0.54%***
+38***Bitcoin (BTC)***Binance***ADA/BTC***$28,091,900***$8,291.21***0.54%***
+39***Bitcoin (BTC)***Binance***EOS/BTC***$27,999,800***$8,195.63***0.54%***
+40***Bitcoin (BTC)***Binance***NEO/BTC***$26,667,900***$8,113.28***0.52%***
+41***Bitcoin (BTC)***Bit-Z***TRX/BTC***$24,541,400***$8,110.34***0.47%***
+42***Bitcoin (BTC)***Binance***DNT/BTC***$24,197,900***$8,035.56***0.47%***
+43***Bitcoin (BTC)***Binance***DGD/BTC***$23,912,300***$8,110.65***0.46%***
+44***Bitcoin (BTC)***Bittrex***BTC/USDT***$22,509,900***$8,137.67***0.43%***
+45***Bitcoin (BTC)***Poloniex***BTC/USDT***$20,076,200***$8,132.45***0.39%***
+46***Bitcoin (BTC)***Huobi***HT/BTC***$19,078,500***$8,107.61***0.37%***
+47***Bitcoin (BTC)***GDAX***BTC/EUR***$18,717,800***$8,088.96***0.36%***
+48***Bitcoin (BTC)***Bitfinex***BTC/EUR***$17,492,700***$8,067.19***0.34%***
+49***Bitcoin (BTC)***HitBTC***ETH/BTC***$17,308,700***$8,085.44***0.33%***
+50***Bitcoin (BTC)***EXX***ETH/BTC***$17,217,200***$8,067.35***0.33%***
+51***Bitcoin (BTC)***Binance***NEBL/BTC***$16,512,600***$8,004.49***0.32%***
+52***Bitcoin (BTC)***Bitstamp***BTC/EUR***$16,045,800***$8,101.79***0.31%***
+53***Bitcoin (BTC)***Binance***XLM/BTC***$15,978,400***$8,177.16***0.31%***
+54***Bitcoin (BTC)***Bit-Z***QTUM/BTC***$15,756,300***$8,152.19***0.30%***
+55***Bitcoin (BTC)***CoinEgg***ETH/BTC***$15,386,000***$8,036.85***0.30%***
+56***Bitcoin (BTC)***Binance***MTL/BTC***$15,378,700***$8,135.94***0.30%***
+57***Bitcoin (BTC)***Binance***ENJ/BTC***$15,124,800***$8,087.05***0.29%***
+58***Bitcoin (BTC)***HitBTC***DASH/BTC***$14,995,100***$8,094.45***0.29%***
+59***Bitcoin (BTC)***Binance***LTC/BTC***$14,913,300***$8,115.57***0.29%***
+60***Bitcoin (BTC)***Coinone***BTC/KRW***$14,758,100***$8,361.01***0.29%***
+61***Bitcoin (BTC)***Huobi***ONT/BTC***$14,638,500***$8,067.79***0.28%***
+62***Bitcoin (BTC)***Neraex***BTC/JPY***$14,487,500***$8,329.10***0.28%***
+63***Bitcoin (BTC)***Binance***NCASH/BTC***$14,309,900***$8,091.72***0.28%***
+64***Bitcoin (BTC)***Binance***TNT/BTC***$14,125,800***$8,107.77***0.27%***
+65***Bitcoin (BTC)***Bit-Z***EKT/BTC***$14,122,000***$8,089.13***0.27%***
+66***Bitcoin (BTC)***Binance***NANO/BTC***$13,965,000***$8,117.11***0.27%***
+67***Bitcoin (BTC)***Binance***STORM/BTC***$13,768,100***$8,377.19***0.27%***
+68***Bitcoin (BTC)***Huobi***OCN/BTC***$13,545,000***$8,058.26***0.26%***
+69***Bitcoin (BTC)***Upbit***AMP/BTC***$13,170,000***$8,318.55***0.25%***
+70***Bitcoin (BTC)***Bit-Z***BCH/BTC***$12,906,400***$8,115.28***0.25%***
+71***Bitcoin (BTC)***CoinsBank***BTC/EUR***$12,503,500***$8,103.70***0.24%***
+72***Bitcoin (BTC)***Huobi***ETH/BTC***$12,389,300***$8,095.39***0.24%***
+73***Bitcoin (BTC)***Poloniex***ETH/BTC***$12,370,800***$8,097.81***0.24%***
+74***Bitcoin (BTC)***Bitfinex***ETH/BTC***$12,153,300***$8,101.31***0.23%***
+75***Bitcoin (BTC)***Binance***GVT/BTC***$11,910,500***$8,087.72***0.23%***
+76***Bitcoin (BTC)***Bitbank***BTC/JPY***$11,857,800***$8,184.40***0.23%***
+77***Bitcoin (BTC)***Binance***BQX/BTC***$11,645,100***$8,092.60***0.22%***
+78***Bitcoin (BTC)***Binance***IOTA/BTC***$11,596,500***$8,046.62***0.22%***
+79***Bitcoin (BTC)***CoinEgg***NEO/BTC***$11,582,400***$7,991.01***0.22%***
+80***Bitcoin (BTC)***Bit-Z***EOS/BTC***$11,492,100***$8,181.60***0.22%***
+81***Bitcoin (BTC)***Huobi***ABT/BTC***$11,384,800***$8,085.38***0.22%***
+82***Bitcoin (BTC)***Binance***BCC/BTC***$11,355,100***$8,115.28***0.22%***
+83***Bitcoin (BTC)***Livecoin***BTC/USD***$11,169,200***$8,401.00***0.22%***
+84***Bitcoin (BTC)***Binance***POA/BTC***$11,155,300***$8,041.01***0.22%***
+85***Bitcoin (BTC)***Binance***AION/BTC***$10,744,100***$8,027.51***0.21%***
+86***Bitcoin (BTC)***CoinEgg***TRX/BTC***$10,723,500***$8,142.15***0.21%***
+87***Bitcoin (BTC)***CoinsBank***BTC/USD***$10,608,300***$8,126.63***0.20%***
+88***Bitcoin (BTC)***Huobi***MEE/BTC***$10,562,700***$8,105.11***0.20%***
+89***Bitcoin (BTC)***Bittrex***AMP/BTC***$10,425,500***$8,318.55***0.20%***
+90***Bitcoin (BTC)***Binance***XVG/BTC***$10,072,200***$8,075.22***0.19%***
+91***Bitcoin (BTC)***OKEx***GTO/BTC***$10,010,300***$8,084.81***0.19%***
+92***Bitcoin (BTC)***OKEx***EOS/BTC***$9,995,340***$8,180.48***0.19%***
+93***Bitcoin (BTC)***Tidex***WAVES/BTC***$9,960,620***$8,104.02***0.19%***
+94***Bitcoin (BTC)***OKEx***AUTO/BTC***$9,689,610***$8,082.57***0.19%***
+95***Bitcoin (BTC)***Exmo***BTC/USD***$9,644,440***$8,448.58***0.19%***
+96***Bitcoin (BTC)***Binance***WAN/BTC***$9,513,190***$8,097.02***0.18%***
+97***Bitcoin (BTC)***Binance***VIB/BTC***$9,446,550***$8,031.01***0.18%***
+98***Bitcoin (BTC)***Bit-Z***LTC/BTC***$9,349,620***$8,115.57***0.18%***
+99***Bitcoin (BTC)***Bittrex***ADA/BTC***$9,230,040***$8,287.09***0.18%***
+100***Bitcoin (BTC)***WEX***BTC/USD***$8,899,430***$8,158.52***0.17%***
+101***Bitcoin (BTC)***CEX.IO***BTC/USD***$8,767,640***$8,213.10***0.17%***
+102***Bitcoin (BTC)***Binance***VEN/BTC***$8,728,280***$8,075.06***0.17%***
+103***Bitcoin (BTC)***OKEx***MITH/BTC***$8,414,300***$7,964.74***0.16%***
+104***Bitcoin (BTC)***Korbit***BTC/KRW***$8,411,460***$8,359.62***0.16%***
+105***Bitcoin (BTC)***CoinsBank***BTC/GBP***$8,000,970***$8,070.49***0.15%***
+106***Bitcoin (BTC)***Binance***FUEL/BTC***$7,946,870***$7,969.93***0.15%***
+107***Bitcoin (BTC)***Binance***XEM/BTC***$7,857,170***$8,173.93***0.15%***
+108***Bitcoin (BTC)***Binance***ETC/BTC***$7,735,610***$8,104.88***0.15%***
+109***Bitcoin (BTC)***Bibox***BTC/USDT***$7,433,500***$8,062.37***0.14%***
+110***Bitcoin (BTC)***HitBTC***ORME/BTC***$7,397,990***$8,303.02***0.14%***
+111***Bitcoin (BTC)***BitBay***BTC/PLN***$7,366,120***$8,137.99***0.14%***
+112***Bitcoin (BTC)***Huobi***ELA/BTC***$7,354,960***$7,725.15***0.14%***
+113***Bitcoin (BTC)***Bittrex***SC/BTC***$7,322,750***$8,112.21***0.14%***
+114***Bitcoin (BTC)***Binance***DASH/BTC***$7,219,560***$8,115.51***0.14%***
+115***Bitcoin (BTC)***Exmo***BTC/RUB***$7,217,620***$7,888.37***0.14%***
+116***Bitcoin (BTC)***YoBit***ETH/BTC***$7,085,170***$8,150.48***0.14%***
+117***Bitcoin (BTC)***Paribu***BTC/TRY***$6,927,190***$8,219.65***0.13%***
+118***Bitcoin (BTC)***Livecoin***ETH/BTC***$6,810,870***$8,128.23***0.13%***
+119***Bitcoin (BTC)***Bit-Z***XRB/BTC***$6,793,030***$8,122.92***0.13%***
+120***Bitcoin (BTC)***Binance***CTR/BTC***$6,736,490***$8,111.34***0.13%***
+121***Bitcoin (BTC)***Binance***WTC/BTC***$6,624,220***$8,042.49***0.13%***
+122***Bitcoin (BTC)***Binance***NULS/BTC***$6,606,480***$8,099.35***0.13%***
+123***Bitcoin (BTC)***Trade By Trade***BTC/USDT***$6,514,290***$8,593.50***0.13%***
+124***Bitcoin (BTC)***Bitinka***BTC/USD***$6,459,120***$9,166.47***0.00%***
+125***Bitcoin (BTC)***EXX***BCC/BTC***$6,390,070***$8,075.59***0.12%***
+126***Bitcoin (BTC)***Binance***STRAT/BTC***$6,301,670***$8,064.59***0.12%***
+127***Bitcoin (BTC)***Bittrex***ETH/BTC***$6,231,450***$8,093.91***0.12%***
+128***Bitcoin (BTC)***Binance***LINK/BTC***$6,214,340***$8,075.93***0.12%***
+129***Bitcoin (BTC)***Binance***WAVES/BTC***$6,189,340***$8,071.41***0.12%***
+130***Bitcoin (BTC)***Lbank***ETH/BTC***$6,164,650***$8,056.54***0.12%***
+131***Bitcoin (BTC)***Upbit***ADA/BTC***$6,016,120***$8,262.42***0.12%***
+132***Bitcoin (BTC)***Bittrex***DNT/BTC***$5,991,290***$8,052.86***0.12%***
+133***Bitcoin (BTC)***Bittrex***XVG/BTC***$5,972,560***$8,093.21***0.12%***
+134***Bitcoin (BTC)***HitBTC***XMR/BTC***$5,955,080***$8,086.02***0.12%***
+135***Bitcoin (BTC)***Poloniex***XRP/BTC***$5,942,160***$8,120.75***0.11%***
+136***Bitcoin (BTC)***Bit-Z***ETC/BTC***$5,852,710***$8,106.48***0.11%***
+137***Bitcoin (BTC)***Binance***BCD/BTC***$5,766,730**** $6,243.73***0.11%***
+138***Bitcoin (BTC)***HitBTC***ZEC/BTC***$5,760,650***$8,152.64***0.11%***
+139***Bitcoin (BTC)***Binance***XMR/BTC***$5,733,270***$8,101.05***0.11%***
+140***Bitcoin (BTC)***Lbank***ZEC/BTC***$5,725,930***$8,115.34***0.11%***
+141***Bitcoin (BTC)***Huobi***TRX/BTC***$5,626,680***$8,138.96***0.11%***
+142***Bitcoin (BTC)***OKEx***XRP/BTC***$5,586,580***$8,135.18***0.11%***
+143***Bitcoin (BTC)***WEX***BCH/BTC***$5,586,250***$8,139.77***0.11%***
+144***Bitcoin (BTC)***Bitfinex***XRP/BTC***$5,582,420***$8,122.96***0.11%***
+145***Bitcoin (BTC)***Upbit***DNT/BTC***$5,356,100***$8,087.69***0.10%***
+146***Bitcoin (BTC)***Poloniex***STR/BTC***$5,322,590***$8,194.87***0.10%***
+147***Bitcoin (BTC)***YoBit***DASH/BTC***$5,311,080***$8,145.42***0.10%***
+148***Bitcoin (BTC)***Binance***SUB/BTC***$5,307,680***$8,104.38***0.10%***
+149***Bitcoin (BTC)***Binance***AST/BTC***$5,296,470***$8,087.06***0.10%***
+150***Bitcoin (BTC)***Binance***BCPT/BTC***$5,294,990***$8,082.44***0.10%***
+151***Bitcoin (BTC)***Fatbtc***BTC/CNY***$5,279,340***$8,255.53***0.10%***
+152***Bitcoin (BTC)***Huobi***WPR/BTC***$5,276,210***$8,118.37***0.10%***
+153***Bitcoin (BTC)***Huobi***IOST/BTC***$5,174,310***$8,013.55***0.10%***
+154***Bitcoin (BTC)***Binance***OMG/BTC***$5,167,140***$8,103.81***0.10%***
+155***Bitcoin (BTC)***EXX***LTC/BTC***$5,126,310***$8,111.12***0.10%***
+156***Bitcoin (BTC)***Binance***REQ/BTC***$5,024,900***$8,073.05***0.10%***
+157***Bitcoin (BTC)***Upbit***SC/BTC***$4,997,240***$8,063.34***0.10%***
+158***Bitcoin (BTC)***LakeBTC***BTC/USD***$4,984,160***$8,682.26***0.10%***
+159***Bitcoin (BTC)***Binance***EDO/BTC***$4,973,110***$8,094.47***0.10%***
+160***Bitcoin (BTC)***Negocie Coins***BTC/BRL***$4,963,540***$8,482.21***0.10%***
+161***Bitcoin (BTC)***OKEx***HSR/BTC***$4,912,820***$7,979.73***0.09%***
+162***Bitcoin (BTC)***Binance***SNT/BTC***$4,878,520***$8,235.97***0.09%***
+163***Bitcoin (BTC)***Bitinka***BTC/EUR***$4,872,090***$9,240.73***0.00%***
+164***Bitcoin (BTC)***GetBTC***BTC/RUB***$4,867,210***$8,333.69***0.09%***
+165***Bitcoin (BTC)***GetBTC***BTC/EUR***$4,781,870***$8,187.58***0.09%***
+166***Bitcoin (BTC)***GetBTC***BTC/USD***$4,773,230***$8,172.78***0.09%***
+167***Bitcoin (BTC)***Bit-Z***DASH/BTC***$4,745,430***$8,115.51***0.09%***
+168***Bitcoin (BTC)***Binance***RCN/BTC***$4,700,130***$8,104.42***0.09%***
+169***Bitcoin (BTC)***Huobi***PROPY/BTC***$4,625,110***$8,075.37***0.09%***
+170***Bitcoin (BTC)***Upbit***BAY/BTC***$4,621,990***$7,891.68***0.09%***
+171***Bitcoin (BTC)***Bittrex***XEM/BTC***$4,507,210***$8,149.01***0.09%***
+172***Bitcoin (BTC)***HitBTC***NOAH/BTC***$4,468,310***$8,089.62***0.09%***
+173***Bitcoin (BTC)***Huobi***DASH/BTC***$4,423,470***$8,148.17***0.09%***
+174***Bitcoin (BTC)***Huobi***ZIL/BTC***$4,356,750***$8,098.35***0.08%***
+175***Bitcoin (BTC)***xBTCe***BTC/USD***$4,229,170***$8,107.60***0.08%***
+176***Bitcoin (BTC)***Huobi***DGD/BTC***$4,199,010***$8,104.74***0.08%***
+177***Bitcoin (BTC)***Bitfinex***LTC/BTC***$4,181,760***$8,122.69***0.08%***
+178***Bitcoin (BTC)***Huobi***KNC/BTC***$4,159,260***$8,043.36***0.08%***
+179***Bitcoin (BTC)***Upbit***XVG/BTC***$4,118,030***$8,147.65***0.08%***
+180***Bitcoin (BTC)***OKEx***GTC/BTC***$4,097,870***$7,944.48***0.08%***
+181***Bitcoin (BTC)***Bibox***HPB/BTC***$3,974,040***$8,167.55***0.08%***
+182***Bitcoin (BTC)***Kucoin***QLC/BTC***$3,972,680***$7,814.19***0.08%***
+183***Bitcoin (BTC)***OKEx***TOPC/BTC***$3,948,140***$8,035.61***0.08%***
+184***Bitcoin (BTC)***Binance***ENG/BTC***$3,923,930***$8,044.85***0.08%***
+185***Bitcoin (BTC)***Huobi***NEO/BTC***$3,908,560***$8,075.65***0.08%***
+186***Bitcoin (BTC)***Gate.io***BTC/USDT***$3,894,140***$8,113.75***0.08%***
+187***Bitcoin (BTC)***Huobi***XRP/BTC***$3,880,880***$8,121.30***0.07%***
+188***Bitcoin (BTC)***QuadrigaCX***BTC/CAD***$3,875,910***$8,252.08***0.07%***
+189***Bitcoin (BTC)***C2CX***BTC/USDT***$3,855,900***$8,117.59***0.07%***
+190***Bitcoin (BTC)***Binance***BTG/BTC***$3,846,010***$8,072.78***0.07%***
+191***Bitcoin (BTC)***Luno***BTC/ZAR***$3,823,100***$8,476.42***0.07%***
+192***Bitcoin (BTC)***Bitinka***BTC/ARS***$3,777,890***$9,377.02***0.00%***
+193***Bitcoin (BTC)***Binance***INS/BTC***$3,739,780***$8,109.42***0.07%***
+194***Bitcoin (BTC)***Binance***ELF/BTC***$3,736,460***$8,083.19***0.07%***
+195***Bitcoin (BTC)***Binance***TRIG/BTC***$3,727,150***$8,082.16***0.07%***
+196***Bitcoin (BTC)***Binance***SALT/BTC***$3,713,920***$8,114.41***0.07%***
+197***Bitcoin (BTC)***Huobi***BTM/BTC***$3,659,830***$8,011.33***0.07%***
+198***Bitcoin (BTC)***YoBit***LSK/BTC***$3,658,870***$8,046.76***0.07%***
+199***Bitcoin (BTC)***Binance***POWR/BTC***$3,594,300***$8,054.23***0.07%***
+200***Bitcoin (BTC)***Exrates***BTC/USD***$3,589,220***$8,241.02***0.07%***
+201***Bitcoin (BTC)***Huobi***EOS/BTC***$3,579,930***$8,183.95***0.07%***
+202***Bitcoin (BTC)***OKEx***TRX/BTC***$3,543,240***$8,142.15***0.07%***
+203***Bitcoin (BTC)***HitBTC***BCN/BTC***$3,516,860***$8,094.61***0.07%***
+204***Bitcoin (BTC)***Bitcoin Indonesia***BTC/IDR***$3,508,770***$8,339.46***0.07%***
+205***Bitcoin (BTC)***Binance***LEND/BTC***$3,476,870***$8,030.32***0.07%***
+206***Bitcoin (BTC)***Binance***ZIL/BTC***$3,467,890***$8,007.74***0.07%***
+207***Bitcoin (BTC)***Kraken***ETH/BTC***$3,465,710***$8,105.23***0.07%***
+208***Bitcoin (BTC)***Binance***MCO/BTC***$3,456,350***$8,097.22***0.07%***
+209***Bitcoin (BTC)***Qryptos***DRG/BTC***$3,448,090***$8,037.08***0.07%***
+210***Bitcoin (BTC)***Cryptopia***ORME/BTC***$3,411,060***$7,764.56***0.07%***
+211***Bitcoin (BTC)***Bittrex***BAY/BTC***$3,401,860***$7,891.68***0.07%***
+212***Bitcoin (BTC)***WEX***ETH/BTC***$3,370,130***$8,101.18***0.07%***
+213***Bitcoin (BTC)***Huobi***ITC/BTC***$3,358,160***$8,077.03***0.06%***
+214***Bitcoin (BTC)***Binance***APPC/BTC***$3,338,170***$8,091.23***0.06%***
+215***Bitcoin (BTC)***CoinEgg***QTUM/BTC***$3,322,390***$8,007.22***0.06%***
+216***Bitcoin (BTC)***Kucoin***BTC/USDT***$3,303,170***$8,092.49***0.06%***
+217***Bitcoin (BTC)***OKEx***BTM/BTC***$3,279,790***$8,045.83***0.06%***
+218***Bitcoin (BTC)***Upbit***UP/BTC***$3,258,970***$7,967.12***0.06%***
+219***Bitcoin (BTC)***Bitfinex***EOS/BTC***$3,247,100***$8,183.95***0.06%***
+220***Bitcoin (BTC)***WEX***LTC/BTC***$3,241,450***$8,113.34***0.06%***
+221***Bitcoin (BTC)***Binance***TNB/BTC***$3,164,590***$8,045.67***0.06%***
+222***Bitcoin (BTC)***Bittrex***LTC/BTC***$3,150,600***$8,107.75***0.06%***
+223***Bitcoin (BTC)***Exmo***BTC/EUR***$3,098,010***$8,286.07***0.06%***
+224***Bitcoin (BTC)***OKEx***SWFTC/BTC***$3,096,440***$8,098.13***0.06%***
+225***Bitcoin (BTC)***Binance***WABI/BTC***$3,090,450***$8,114.64***0.06%***
+226***Bitcoin (BTC)***Bit-Z***NULS/BTC***$3,069,650***$8,099.35***0.06%***
+227***Bitcoin (BTC)***OKEx***INS/BTC***$3,065,330***$8,062.00***0.06%***
+228***Bitcoin (BTC)***Huobi***NAS/BTC***$3,047,060***$7,989.80***0.06%***
+229***Bitcoin (BTC)***BTC Markets***BTC/AUD***$3,045,730***$8,152.77***0.06%***
+230***Bitcoin (BTC)***BTCTurk***BTC/TRY***$3,040,920***$8,224.92***0.06%***
+231***Bitcoin (BTC)***Poloniex***LTC/BTC***$3,020,480***$8,115.63***0.06%***
+232***Bitcoin (BTC)***Bibox***CPC/BTC***$3,004,870***$8,114.40***0.06%***
+233***Bitcoin (BTC)***Bittrex***NEO/BTC***$3,000,720***$8,089.18***0.06%***
+234***Bitcoin (BTC)***Huobi***VEN/BTC***$2,977,570***$8,096.01***0.06%***
+235***Bitcoin (BTC)***Huobi***RDN/BTC***$2,973,120***$8,082.95***0.06%***
+236***Bitcoin (BTC)***Huobi***MDS/BTC***$2,938,120***$8,336.74***0.06%***
+237***Bitcoin (BTC)***Bittrex***XRP/BTC***$2,937,520***$8,148.54***0.06%***
+238***Bitcoin (BTC)***CoinEgg***LSK/BTC***$2,932,320***$8,208.37***0.06%***
+239***Bitcoin (BTC)***Binance***MDA/BTC***$2,905,030***$7,922.67***0.06%***
+240***Bitcoin (BTC)***Tidex***ETH/BTC***$2,904,620***$8,097.76***0.06%***
+241***Bitcoin (BTC)***Kucoin***ETH/BTC***$2,902,360***$8,097.35***0.06%***
+242***Bitcoin (BTC)***Bittrex***XLM/BTC***$2,850,710***$8,221.58***0.06%***
+243***Bitcoin (BTC)***Binance***LSK/BTC***$2,849,120***$8,096.31***0.06%***
+244***Bitcoin (BTC)***CoinEgg***XRP/BTC***$2,837,590***$8,131.84***0.05%***
+245***Bitcoin (BTC)***Huobi***MTN/BTC***$2,827,710***$8,029.77***0.05%***
+246***Bitcoin (BTC)***BtcTrade.im***ETH/BTC***$2,804,080***$7,991.49***0.05%***
+247***Bitcoin (BTC)***Huobi***DTA/BTC***$2,779,280***$8,107.41***0.05%***
+248***Bitcoin (BTC)***Exmo***ETH/BTC***$2,754,870***$8,112.61***0.05%***
+249***Bitcoin (BTC)***GDAX***LTC/BTC***$2,679,920***$8,104.45***0.05%***
+250***Bitcoin (BTC)***Bitstamp***ETH/BTC***$2,679,790***$8,107.92***0.05%***
+251***Bitcoin (BTC)***Upbit***SLS/BTC***$2,674,620***$8,124.73***0.05%***
+252***Bitcoin (BTC)***Huobi***CMT/BTC***$2,648,410***$8,113.87***0.05%***
+253***Bitcoin (BTC)***Huobi***ZEC/BTC***$2,637,710***$8,163.57***0.05%***
+254***Bitcoin (BTC)***CoinEgg***RUFF/BTC***$2,629,820***$8,281.99***0.05%***
+255***Bitcoin (BTC)***Huobi***BCH/BTC***$2,624,730***$8,129.01***0.05%***
+256***Bitcoin (BTC)***BX Thailand***BTC/THB***$2,613,400***$8,237.40***0.05%***
+257***Bitcoin (BTC)***Bittrex***UP/BTC***$2,609,490***$7,967.12***0.05%***
+258***Bitcoin (BTC)***Coinfloor***BTC/GBP***$2,600,340***$8,141.58***0.05%***
+259***Bitcoin (BTC)***OKEx***SNC/BTC***$2,595,270***$7,900.20***0.05%***
+260***Bitcoin (BTC)***BL3P***BTC/EUR***$2,584,620***$8,132.23***0.05%***
+261***Bitcoin (BTC)***Lbank***NEO/BTC***$2,583,020***$8,018.55***0.05%***
+262***Bitcoin (BTC)***Bitfinex***BCH/BTC***$2,541,600***$8,111.06***0.05%***
+263***Bitcoin (BTC)***Upbit***BTC/USDT***$2,507,110***$8,147.19***0.05%***
+264***Bitcoin (BTC)***Binance***BLZ/BTC***$2,502,440***$8,071.93***0.05%***
+265***Bitcoin (BTC)***WEX***BTC/RUR***$2,490,630***$8,103.61***0.05%***
+266***Bitcoin (BTC)***Huobi***QTUM/BTC***$2,490,310***$8,143.96***0.05%***
+267***Bitcoin (BTC)***ACX***BTC/AUD***$2,475,840***$8,229.16***0.05%***
+268***Bitcoin (BTC)***GDAX***ETH/BTC***$2,462,110***$8,091.75***0.05%***
+269***Bitcoin (BTC)***Huobi***STORJ/BTC***$2,454,860***$8,123.56***0.05%***
+270***Bitcoin (BTC)***Huobi***MTL/BTC***$2,432,480***$8,133.05***0.05%***
+271***Bitcoin (BTC)***OKEx***CTR/BTC***$2,415,240***$8,017.76***0.05%***
+272***Bitcoin (BTC)***Binance***KNC/BTC***$2,410,930***$8,115.60***0.05%***
+273***Bitcoin (BTC)***OKEx***VIB/BTC***$2,374,650***$7,949.54***0.05%***
+274***Bitcoin (BTC)***Liqui***SRN/BTC***$2,356,530***$8,131.12***0.05%***
+275***Bitcoin (BTC)***Upbit***PTOY/BTC***$2,353,000***$8,091.87***0.05%***
+276***Bitcoin (BTC)***Bit-Z***LSK/BTC***$2,348,350***$8,118.84***0.05%***
+277***Bitcoin (BTC)***HitBTC***XRP/BTC***$2,336,470***$8,117.42***0.05%***
+278***Bitcoin (BTC)***Huobi***GNX/BTC***$2,333,950***$8,055.59***0.05%***
+279***Bitcoin (BTC)***Poloniex***XMR/BTC***$2,328,470***$8,116.14***0.04%***
+280***Bitcoin (BTC)***GDAX***BTC/GBP***$2,321,880***$8,150.92***0.04%***
+281***Bitcoin (BTC)***Huobi***RUFF/BTC***$2,272,290***$8,098.10***0.04%***
+282***Bitcoin (BTC)***Bitinka***BTC/BRL***$2,252,290***$9,441.29***0.00%***
+283***Bitcoin (BTC)***BtcTrade.im***BCH/BTC***$2,252,090***$8,241.07***0.04%***
+284***Bitcoin (BTC)***Binance***GTO/BTC***$2,227,060***$8,124.04***0.04%***
+285***Bitcoin (BTC)***Bittrex***VIB/BTC***$2,219,860***$8,078.94***0.04%***
+286***Bitcoin (BTC)***Huobi***HSR/BTC***$2,215,820***$7,975.62***0.04%***
+287***Bitcoin (BTC)***OKEx***NEO/BTC***$2,213,330***$8,108.21***0.04%***
+288***Bitcoin (BTC)***Huobi***THETA/BTC***$2,206,890***$8,109.38***0.04%***
+289***Bitcoin (BTC)***Bittrex***STRAT/BTC***$2,190,750***$8,040.82***0.04%***
+290***Bitcoin (BTC)***Bibox***CAT/BTC***$2,180,330***$8,054.76***0.04%***
+291***Bitcoin (BTC)***ZB.COM***ETH/BTC***$2,168,170***$8,076.18***0.04%***
+292***Bitcoin (BTC)***Huobi***ELF/BTC***$2,164,450***$8,099.81***0.04%***
+293***Bitcoin (BTC)***Poloniex***XEM/BTC***$2,148,850***$8,183.95***0.04%***
+294***Bitcoin (BTC)***WEX***BTC/EUR***$2,117,050***$8,280.47***0.04%***
+295***Bitcoin (BTC)***OkCoin Intl.***BTC/USD***$2,116,980***$8,790.00***0.04%***
+296***Bitcoin (BTC)***Binance***POE/BTC***$2,104,050***$8,068.43***0.04%***
+297***Bitcoin (BTC)***Huobi***PAY/BTC***$2,090,770***$8,088.91***0.04%***
+298***Bitcoin (BTC)***OKEx***AIDOC/BTC***$2,090,160***$8,263.42***0.04%***
+299***Bitcoin (BTC)***OKEx***IOTA/BTC***$2,081,370***$8,055.72***0.04%***
+300***Bitcoin (BTC)***Binance***CDT/BTC***$2,066,190***$8,095.76***0.04%***
+301***Bitcoin (BTC)***Binance***NAV/BTC***$2,066,020***$8,109.52***0.04%***
+302***Bitcoin (BTC)***Upbit***XEM/BTC***$2,065,090***$8,163.94***0.04%***
+303***Bitcoin (BTC)***WEX***DSH/BTC***$2,062,240***$8,123.01***0.04%***
+304***Bitcoin (BTC)***OKEx***QTUM/BTC***$2,055,990***$8,150.92***0.04%***
+305***Bitcoin (BTC)***Liqui***TRX/BTC***$2,055,150***$8,110.34***0.04%***
+306***Bitcoin (BTC)***Binance***CMT/BTC***$2,051,630***$8,031.91***0.04%***
+307***Bitcoin (BTC)***RightBTC***BCC/BTC***$2,025,340***$8,134.01***0.04%***
+308***Bitcoin (BTC)***Huobi***RCN/BTC***$2,004,460***$8,086.70***0.04%***
+309***Bitcoin (BTC)***Binance***LUN/BTC***$1,996,790***$8,099.49***0.04%***
+310***Bitcoin (BTC)***Livecoin***LTC/BTC***$1,990,780***$8,018.21***0.04%***
+311***Bitcoin (BTC)***Binance***CND/BTC***$1,985,680***$8,112.84***0.04%***
+312***Bitcoin (BTC)***Binance***EVX/BTC***$1,956,820***$8,121.62***0.04%***
+313***Bitcoin (BTC)***OKEx***TRUE/BTC***$1,956,080***$8,068.81***0.04%***
+314***Bitcoin (BTC)***Bittrex***GNO/BTC***$1,955,690***$8,004.96***0.04%***
+315***Bitcoin (BTC)***CoinEgg***BTM/BTC***$1,954,880***$8,395.04***0.04%***
+316***Bitcoin (BTC)***Kraken***XRP/BTC***$1,954,610***$8,104.16***0.04%***
+317***Bitcoin (BTC)***Bibox***AWR/BTC***$1,939,950***$8,110.81***0.04%***
+318***Bitcoin (BTC)***Bittrex***RDD/BTC***$1,939,630***$8,018.96***0.04%***
+319***Bitcoin (BTC)***Bibox***C20/BTC***$1,936,130***$8,083.64***0.04%***
+320***Bitcoin (BTC)***Bitinka***BTC/PEN***$1,931,470***$8,791.82***0.00%***
+321***Bitcoin (BTC)***MBAex***BTC/USDT***$1,931,040***$7,722.00***0.04%***
+322***Bitcoin (BTC)***Binance***ADX/BTC***$1,917,170***$8,124.55***0.04%***
+323***Bitcoin (BTC)***Huobi***SNT/BTC***$1,908,770***$8,232.29***0.04%***
+324***Bitcoin (BTC)***Huobi***TNT/BTC***$1,885,370***$8,079.77***0.04%***
+325***Bitcoin (BTC)***Upbit***XLM/BTC***$1,831,610***$8,203.75***0.04%***
+326***Bitcoin (BTC)***Bittrex***PTOY/BTC***$1,827,700***$8,091.87***0.04%***
+327***Bitcoin (BTC)***YoBit***BCC/BTC***$1,803,890***$8,139.77***0.03%***
+328***Bitcoin (BTC)***BtcTrade.im***LTC/BTC***$1,791,240***$7,779.02***0.03%***
+329***Bitcoin (BTC)***Poloniex***FCT/BTC***$1,784,060***$8,074.50***0.03%***
+330***Bitcoin (BTC)***Bittrex***SLS/BTC***$1,783,860***$8,124.73***0.03%***
+331***Bitcoin (BTC)***Huobi***QSP/BTC***$1,781,110***$8,094.94***0.03%***
+332***Bitcoin (BTC)***Huobi***GAS/BTC***$1,764,250***$8,083.22***0.03%***
+333***Bitcoin (BTC)***ZB.COM***EOS/BTC***$1,732,400***$8,192.26***0.03%***
+334***Bitcoin (BTC)***Upbit***VIB/BTC***$1,724,710***$8,083.33***0.03%***
+335***Bitcoin (BTC)***Binance***GAS/BTC***$1,723,340***$8,109.75***0.03%***
+336***Bitcoin (BTC)***Binance***SNGLS/BTC***$1,715,890***$8,082.35***0.03%***
+337***Bitcoin (BTC)***Binance***VIBE/BTC***$1,710,610***$8,131.25***0.03%***
+338***Bitcoin (BTC)***OKEx***DADI/BTC***$1,694,380***$8,031.02***0.03%***
+339***Bitcoin (BTC)***Foxbit***BTC/BRL***$1,688,570***$8,303.17***0.03%***
+340***Bitcoin (BTC)***OEX***XAS/BTC***$1,667,790***$8,566.23***0.00%***
+341***Bitcoin (BTC)***Bitinka***BTC/CLP***$1,664,480***$9,291.86***0.00%***
+342***Bitcoin (BTC)***EXX***EPC/BTC***$1,660,890***$7,957.96***0.03%***
+343***Bitcoin (BTC)***Livecoin***XMR/BTC***$1,659,170***$8,102.06***0.03%***
+344***Bitcoin (BTC)***Binance***AMB/BTC***$1,653,320***$8,169.78***0.03%***
+345***Bitcoin (BTC)***CoinEgg***ACT/BTC***$1,651,080***$7,893.67***0.03%***
+346***Bitcoin (BTC)***Bit-Z***MCO/BTC***$1,647,040***$8,097.22***0.03%***
+347***Bitcoin (BTC)***Huobi***WICC/BTC***$1,646,620***$8,191.79***0.03%***
+348***Bitcoin (BTC)***Huobi***BLZ/BTC***$1,643,310***$7,990.32***0.03%***
+349***Bitcoin (BTC)***TOPBTC***ETH/BTC***$1,639,420***$8,498.56***0.03%***
+350***Bitcoin (BTC)***Binance***OST/BTC***$1,636,060***$8,145.64***0.03%***
+351***Bitcoin (BTC)***Huobi***MANA/BTC***$1,635,090***$8,158.24***0.03%***
+352***Bitcoin (BTC)***Bit-Z***ZEC/BTC***$1,627,640***$8,170.71***0.03%***
+353***Bitcoin (BTC)***Mercado Bitcoin***BTC/BRL***$1,627,530***$8,408.85***0.03%***
+354***Bitcoin (BTC)***Bitso***BTC/MXN***$1,614,260***$8,127.78***0.03%***
+355***Bitcoin (BTC)***Bittrex***SRN/BTC***$1,613,690***$8,076.87***0.03%***
+356***Bitcoin (BTC)***Huobi***XEM/BTC***$1,601,730***$8,216.66***0.03%***
+357***Bitcoin (BTC)***Upbit***RDD/BTC***$1,599,020***$8,018.96***0.03%***
+358***Bitcoin (BTC)***Huobi***QASH/BTC***$1,591,330***$8,101.57***0.03%***
+359***Bitcoin (BTC)***Bibox***ETH/BTC***$1,580,670***$8,121.59***0.03%***
+360***Bitcoin (BTC)***OEX***NEBL/BTC***$1,578,010***$10,779.20***0.00%***
+361***Bitcoin (BTC)***Bittrex***BCC/BTC***$1,571,620***$8,115.42***0.03%***
+362***Bitcoin (BTC)***Huobi***LTC/BTC***$1,567,510***$8,116.23***0.03%***
+363***Bitcoin (BTC)***Huobi***LET/BTC***$1,557,560***$8,173.07***0.03%***
+364***Bitcoin (BTC)***Bittrex***DGB/BTC***$1,553,660***$8,085.96***0.03%***
+365***Bitcoin (BTC)***Huobi***GNT/BTC***$1,543,080***$8,119.85***0.03%***
+366***Bitcoin (BTC)***Bitfinex***MIOTA/BTC***$1,541,500***$8,064.83***0.03%***
+367***Bitcoin (BTC)***RightBTC***ETH/BTC***$1,538,680***$8,131.94***0.03%***
+368***Bitcoin (BTC)***Huobi***ICX/BTC***$1,534,690***$8,223.19***0.03%***
+369***Bitcoin (BTC)***Bitstamp***XRP/BTC***$1,531,620***$8,106.37***0.03%***
+370***Bitcoin (BTC)***YoBit***LTC/BTC***$1,517,730***$8,135.60***0.03%***
+371***Bitcoin (BTC)***Binance***ZRX/BTC***$1,509,060***$8,077.94***0.03%***
+372***Bitcoin (BTC)***Huobi***SRN/BTC***$1,485,510***$7,966.63***0.03%***
+373***Bitcoin (BTC)***Bibox***KICK/BTC***$1,484,660***$8,062.99***0.03%***
+374***Bitcoin (BTC)***Qryptos***LDC/BTC***$1,482,390***$7,307.89***0.03%***
+375***Bitcoin (BTC)***Poloniex***SC/BTC***$1,475,650***$8,112.21***0.03%***
+376***Bitcoin (BTC)***Huobi***SOC/BTC***$1,472,670***$8,082.99***0.03%***
+377***Bitcoin (BTC)***Huobi***LSK/BTC***$1,471,630***$8,079.34***0.03%***
+378***Bitcoin (BTC)***Huobi***ENG/BTC***$1,470,840***$8,056.75***0.03%***
+379***Bitcoin (BTC)***Bitfinex***ETC/BTC***$1,469,700***$8,113.67***0.03%***
+380***Bitcoin (BTC)***Bit-Z***HSR/BTC***$1,457,410***$7,979.63***0.03%***
+381***Bitcoin (BTC)***Binance***RPX/BTC***$1,452,000***$8,073.63***0.03%***
+382***Bitcoin (BTC)***HitBTC***XDN/BTC***$1,437,650***$8,084.12***0.03%***
+383***Bitcoin (BTC)***Huobi***CVC/BTC***$1,424,090***$8,102.60***0.03%***
+384***Bitcoin (BTC)***Lbank***ETC/BTC***$1,411,910***$8,114.55***0.03%***
+385***Bitcoin (BTC)***Huobi***ETC/BTC***$1,408,290***$8,106.88***0.03%***
+386***Bitcoin (BTC)***Binance***MOD/BTC***$1,407,820***$8,078.90***0.03%***
+387***Bitcoin (BTC)***Kucoin***OCN/BTC***$1,403,660***$8,053.04***0.03%***
+388***Bitcoin (BTC)***OKEx***IOST/BTC***$1,394,700***$8,133.35***0.03%***
+389***Bitcoin (BTC)***CoinEgg***QBT/BTC***$1,392,110***$8,257.75***0.03%***
+390***Bitcoin (BTC)***Huobi***EVX/BTC***$1,390,060***$8,086.25***0.03%***
+391***Bitcoin (BTC)***Liqui***ETH/BTC***$1,389,770***$8,112.36***0.03%***
+392***Bitcoin (BTC)***BitMEX***BTC/USD***** $2,887,390,000***$8,083.00***0.00%***
+393***Bitcoin (BTC)***Quoine***BTC/JPY***** $82,006,100***$8,174.76***0.00%***
+394***Bitcoin (BTC)***Zaif***BTC/JPY***** $81,346,500***$8,173.53***0.00%***
+395***Bitcoin (BTC)***Fisco***BTC/JPY***** $81,301,700***$8,170.77***0.00%***
+396***Bitcoin (BTC)***Quoine***BTC/USD***** $11,478,400***$8,103.78***0.00%***
+397***Bitcoin (BTC)***ZB.COM***BTC/USDT***** $10,108,000***$8,105.10***0.00%***
+398***Bitcoin (BTC)***GOPAX***BTC/KRW***** $8,355,300***$8,377.24***0.00%***
+399***Bitcoin (BTC)***Quoine***BTC/SGD***** $1,667,390***$8,082.62***0.00%***
+400***Bitcoin (BTC)***Negocie Coins***B2X/BTC****** $9,813,600****** $2.16***0.00%***
+
+
+
+1***Ethereum (ETH)***Bitfinex***ETH/USD***$87,422,500***$483.89***6.05%***
+2***Ethereum (ETH)***Huobi***ETH/USDT***$73,790,000***$488.08***5.10%***
+3***Ethereum (ETH)***Binance***ETH/BTC***$72,953,500***$485.56***5.05%***
+4***Ethereum (ETH)***OKEx***ETH/USDT***$66,821,700***$486.92***4.62%***
+5***Ethereum (ETH)***Binance***ETH/USDT***$60,979,200***$487.33***4.22%***
+6***Ethereum (ETH)***OKEx***ETH/BTC***$55,874,200***$485.58***3.87%***
+7***Ethereum (ETH)***GDAX***ETH/USD***$50,834,600***$484.78***3.52%***
+8***Ethereum (ETH)***Bit-Z***ETH/BTC***$40,180,800***$486.07***2.78%***
+9***Ethereum (ETH)***Binance***TRX/ETH***$29,395,900***$489.00***2.03%***
+10***Ethereum (ETH)***Bithumb***ETH/KRW***$29,219,800***$500.94***2.02%***
+11***Ethereum (ETH)***Kraken***ETH/EUR***$21,868,800***$483.78***1.51%***
+12***Ethereum (ETH)***Kraken***ETH/USD***$21,645,500***$484.03***1.50%***
+13***Ethereum (ETH)***Huobi***TRX/ETH***$18,222,400***$489.41***1.26%***
+14***Ethereum (ETH)***HitBTC***ETH/BTC***$17,296,600***$485.64***1.20%***
+15***Ethereum (ETH)***EXX***ETH/BTC***$17,242,900***$489.70***1.19%***
+16***Ethereum (ETH)***Bitstamp***ETH/USD***$17,035,300***$483.87***1.18%***
+17***Ethereum (ETH)***Huobi***HT/ETH***$17,017,300***$489.65***1.18%***
+18***Ethereum (ETH)***CoinEgg***ETH/BTC***$15,329,100***$489.31***1.06%***
+19***Ethereum (ETH)***Gemini***ETH/USD***$15,104,300***$484.54***1.04%***
+20***Ethereum (ETH)***Upbit***ETH/KRW***$13,414,100***$500.29***0.93%***
+21***Ethereum (ETH)***Bibox***ETH/USDT***$12,517,100***$486.48***0.87%***
+22***Ethereum (ETH)***Huobi***ETH/BTC***$12,395,600***$486.69***0.86%***
+23***Ethereum (ETH)***Poloniex***ETH/BTC***$12,369,400***$485.03***0.86%***
+24***Ethereum (ETH)***Bitfinex***ETH/BTC***$12,130,300***$485.02***0.84%***
+25***Ethereum (ETH)***Binance***EOS/ETH***$11,750,600***$492.19***0.81%***
+26***Ethereum (ETH)***Huobi***ONT/ETH***$11,665,500***$486.91***0.81%***
+27***Ethereum (ETH)***Binance***QTUM/ETH***$11,628,500***$490.28***0.80%***
+28***Ethereum (ETH)***EXX***EPC/ETH***$11,123,800***$487.86***0.77%***
+29***Ethereum (ETH)***Huobi***OCN/ETH***$10,871,700***$489.60***0.75%***
+30***Ethereum (ETH)***CoinBene***ABT/ETH***$9,892,220***$486.44***0.68%***
+31***Ethereum (ETH)***ZB.COM***ETH/USDT***$8,781,440***$486.38***0.61%***
+32***Ethereum (ETH)***Huobi***ABT/ETH***$7,656,240***$487.28***0.53%***
+33***Ethereum (ETH)***Gate.io***ETH/USDT***$7,216,260***$487.61***0.50%***
+34***Ethereum (ETH)***YoBit***ETH/BTC***$7,102,000***$485.92***0.49%***
+35***Ethereum (ETH)***Bit-Z***OC/ETH***$7,048,620***$481.16***0.49%***
+36***Ethereum (ETH)***Livecoin***ETH/BTC***$6,807,570***$484.59***0.47%***
+37***Ethereum (ETH)***OKEx***ETC/ETH***$6,698,750***$487.83***0.46%***
+38***Ethereum (ETH)***Binance***ONT/ETH***$6,342,220***$479.18***0.44%***
+39***Ethereum (ETH)***CoinBene***ETH/USDT***$6,292,740***$487.14***0.44%***
+40***Ethereum (ETH)***Huobi***MTN/ETH***$6,190,080***$482.73***0.43%***
+41***Ethereum (ETH)***Lbank***ETH/BTC***$6,141,490***$486.67***0.42%***
+42***Ethereum (ETH)***Bittrex***ETH/BTC***$6,075,360***$486.61***0.42%***
+43***Ethereum (ETH)***OKEx***TRUE/ETH***$6,040,000***$492.53***0.42%***
+44***Ethereum (ETH)***Huobi***ELA/ETH***$6,017,520***$490.24***0.42%***
+45***Ethereum (ETH)***Bit-Z***TRX/ETH***$5,842,100***$489.29***0.40%***
+46***Ethereum (ETH)***Coinone***ETH/KRW***$5,691,250***$500.94***0.39%***
+47***Ethereum (ETH)***Binance***WAN/ETH***$5,657,360***$485.45***0.39%***
+48***Ethereum (ETH)***Huobi***EOS/ETH***$5,605,400***$490.80***0.39%***
+49***Ethereum (ETH)***Binance***QLC/ETH***$5,505,310***$475.63***0.38%***
+50***Ethereum (ETH)***Binance***ICX/ETH***$5,503,370***$494.12***0.38%***
+51***Ethereum (ETH)***Bitstamp***ETH/EUR***$5,153,390***$484.98***0.36%***
+52***Ethereum (ETH)***Binance***DGD/ETH***$5,042,240***$500.33***0.35%***
+53***Ethereum (ETH)***Binance***NEO/ETH***$5,024,660***$485.08***0.35%***
+54***Ethereum (ETH)***Binance***BNB/ETH***$4,925,300***$487.74***0.34%***
+55***Ethereum (ETH)***Binance***POA/ETH***$4,880,950***$481.65***0.34%***
+56***Ethereum (ETH)***GDAX***ETH/EUR***$4,872,500***$484.78***0.34%***
+57***Ethereum (ETH)***Bibox***BBN/ETH***$4,803,700***$488.36***0.33%***
+58***Ethereum (ETH)***Bittrex***ETH/USDT***$4,547,230***$488.12***0.31%***
+59***Ethereum (ETH)***OKEx***MITH/ETH***$4,544,710***$484.60***0.31%***
+60***Ethereum (ETH)***Binance***ADA/ETH***$4,174,040***$498.23***0.29%***
+61***Ethereum (ETH)***Lbank***ZEC/ETH***$4,160,000***$486.67***0.29%***
+62***Ethereum (ETH)***Binance***XRP/ETH***$4,153,110***$486.89***0.29%***
+63***Ethereum (ETH)***Huobi***CMT/ETH***$4,096,000***$483.93***0.28%***
+64***Ethereum (ETH)***HitBTC***ETH/USDT***$3,972,660***$493.58***0.27%***
+65***Ethereum (ETH)***Liqui***TRX/ETH***$3,922,120***$489.52***0.27%***
+66***Ethereum (ETH)***Huobi***WPR/ETH***$3,868,710***$484.71***0.27%***
+67***Ethereum (ETH)***Bibox***HPB/ETH***$3,710,820***$486.66***0.26%***
+68***Ethereum (ETH)***Poloniex***ETH/USDT***$3,536,790***$487.00***0.24%***
+69***Ethereum (ETH)***WEX***ETH/USD***$3,521,800***$489.22***0.24%***
+70***Ethereum (ETH)***Korbit***ETH/KRW***$3,487,480***$501.17***0.24%***
+71***Ethereum (ETH)***Huobi***ZIL/ETH***$3,471,850***$483.40***0.24%***
+72***Ethereum (ETH)***Binance***IOST/ETH***$3,465,140***$486.53***0.24%***
+73***Ethereum (ETH)***Kraken***ETH/BTC***$3,451,180***$484.59***0.24%***
+74***Ethereum (ETH)***Huobi***MDS/ETH***$3,403,740***$486.95***0.24%***
+75***Ethereum (ETH)***Bitfinex***EOS/ETH***$3,377,520***$492.72***0.23%***
+76***Ethereum (ETH)***WEX***ETH/BTC***$3,372,130***$483.78***0.23%***
+77***Ethereum (ETH)***Huobi***DGD/ETH***$3,352,010***$486.62***0.23%***
+78***Ethereum (ETH)***Liqui***SRN/ETH***$3,283,890***$490.34***0.23%***
+79***Ethereum (ETH)***WEX***BCH/ETH***$3,072,960***$488.72***0.21%***
+80***Ethereum (ETH)***Binance***DNT/ETH***$3,064,350***$487.71***0.21%***
+81***Ethereum (ETH)***Bibox***CPC/ETH***$3,013,510***$486.03***0.21%***
+82***Ethereum (ETH)***Huobi***OMG/ETH***$2,983,590***$486.42***0.21%***
+83***Ethereum (ETH)***Bit-Z***NKC/ETH***$2,965,250***$484.72***0.21%***
+84***Ethereum (ETH)***Huobi***BTM/ETH***$2,955,790***$482.01***0.20%***
+85***Ethereum (ETH)***Kucoin***ETH/BTC***$2,908,490***$486.09***0.20%***
+86***Ethereum (ETH)***OKEx***EOS/ETH***$2,904,430***$490.80***0.20%***
+87***Ethereum (ETH)***Tidex***ETH/BTC***$2,889,880***$485.65***0.20%***
+88***Ethereum (ETH)***Huobi***RDN/ETH***$2,878,340***$486.26***0.20%***
+89***Ethereum (ETH)***BtcTrade.im***ETH/BTC***$2,844,600***$494.13***0.20%***
+90***Ethereum (ETH)***Exmo***ETH/BTC***$2,759,710***$484.54***0.19%***
+91***Ethereum (ETH)***Huobi***VEN/ETH***$2,678,650***$486.46***0.19%***
+92***Ethereum (ETH)***Bitstamp***ETH/BTC***$2,678,080***$485.56***0.19%***
+93***Ethereum (ETH)***Huobi***NAS/ETH***$2,653,170***$486.23***0.18%***
+94***Ethereum (ETH)***Neraex***ETH/JPY***$2,582,700***$489.97***0.18%***
+95***Ethereum (ETH)***Kucoin***ETH/USDT***$2,536,630***$486.91***0.18%***
+96***Ethereum (ETH)***Exrates***ETH/USD***$2,453,230***$506.72***0.17%***
+97***Ethereum (ETH)***Huobi***DTA/ETH***$2,441,090***$487.81***0.17%***
+98***Ethereum (ETH)***GDAX***ETH/BTC***$2,417,810***$485.72***0.17%***
+99***Ethereum (ETH)***Qryptos***DRG/ETH***$2,389,100***$489.25***0.17%***
+100***Ethereum (ETH)***Huobi***QTUM/ETH***$2,305,470***$490.05***0.16%***
+101***Ethereum (ETH)***Huobi***ITC/ETH***$2,218,510***$484.55***0.15%***
+102***Ethereum (ETH)***Huobi***PROPY/ETH***$2,183,340***$480.67***0.15%***
+103***Ethereum (ETH)***ZB.COM***ETH/BTC***$2,165,560***$486.30***0.15%***
+104***Ethereum (ETH)***Kucoin***QLC/ETH***$2,155,560***$486.33***0.15%***
+105***Ethereum (ETH)***Exmo***ETH/USD***$2,153,680***$503.93***0.15%***
+106***Ethereum (ETH)***Binance***TNT/ETH***$2,122,120***$489.38***0.15%***
+107***Ethereum (ETH)***Binance***VEN/ETH***$2,110,350***$485.14***0.15%***
+108***Ethereum (ETH)***Huobi***RUFF/ETH***$2,105,120***$486.08***0.15%***
+109***Ethereum (ETH)***Huobi***ELF/ETH***$2,058,630***$486.81***0.14%***
+110***Ethereum (ETH)***Huobi***THETA/ETH***$2,028,890***$486.24***0.14%***
+111***Ethereum (ETH)***Huobi***IOST/ETH***$1,990,180***$482.73***0.14%***
+112***Ethereum (ETH)***Huobi***GNX/ETH***$1,975,520***$485.41***0.14%***
+113***Ethereum (ETH)***Binance***REQ/ETH***$1,937,350***$478.15***0.13%***
+114***Ethereum (ETH)***Bancor Network***BNT/ETH***$1,931,370***$488.91***0.13%***
+115***Ethereum (ETH)***Binance***LTC/ETH***$1,874,960***$486.70***0.13%***
+116***Ethereum (ETH)***Binance***STORM/ETH***$1,856,470***$502.72***0.13%***
+117***Ethereum (ETH)***WEX***ETH/RUR***$1,855,400***$488.18***0.13%***
+118***Ethereum (ETH)***Binance***BQX/ETH***$1,835,030***$488.42***0.13%***
+119***Ethereum (ETH)***Huobi***PAY/ETH***$1,817,380***$485.21***0.13%***
+120***Ethereum (ETH)***Huobi***RCN/ETH***$1,812,990***$486.24***0.13%***
+121***Ethereum (ETH)***C2CX***ETH/USDT***$1,805,400***$485.80***0.12%***
+122***Ethereum (ETH)***Huobi***HSR/ETH***$1,731,460***$481.01***0.12%***
+123***Ethereum (ETH)***Huobi***QSP/ETH***$1,728,780***$485.04***0.12%***
+124***Ethereum (ETH)***Huobi***GAS/ETH***$1,698,870***$486.93***0.12%***
+125***Ethereum (ETH)***WEX***ETH/EUR***$1,687,100***$497.24***0.12%***
+126***Ethereum (ETH)***Binance***NANO/ETH***$1,679,490***$485.14***0.12%***
+127***Ethereum (ETH)***Binance***NCASH/ETH***$1,648,120***$486.26***0.11%***
+128***Ethereum (ETH)***TOPBTC***ETH/BTC***$1,637,510***$484.53***0.11%***
+129***Ethereum (ETH)***Bibox***ETH/BTC***$1,584,170***$485.50***0.11%***
+130***Ethereum (ETH)***OKEx***TRX/ETH***$1,578,860***$490.74***0.11%***
+131***Ethereum (ETH)***Huobi***BLZ/ETH***$1,574,480***$486.34***0.11%***
+132***Ethereum (ETH)***Binance***XLM/ETH***$1,571,720***$494.00***0.11%***
+133***Ethereum (ETH)***COSS***HGT/ETH***$1,565,210***$486.72***0.11%***
+134***Ethereum (ETH)***Binance***FUEL/ETH***$1,561,810***$480.44***0.11%***
+135***Ethereum (ETH)***Huobi***GNT/ETH***$1,533,660***$486.70***0.11%***
+136***Ethereum (ETH)***RightBTC***ETH/BTC***$1,525,960***$479.12***0.11%***
+137***Ethereum (ETH)***Huobi***MANA/ETH***$1,514,790***$492.11***0.10%***
+138***Ethereum (ETH)***QuadrigaCX***ETH/CAD***$1,499,050***$503.94***0.10%***
+139***Ethereum (ETH)***Binance***XVG/ETH***$1,483,630***$486.11***0.10%***
+140***Ethereum (ETH)***Huobi***LET/ETH***$1,483,580***$487.70***0.10%***
+141***Ethereum (ETH)***Huobi***QASH/ETH***$1,481,690***$488.82***0.10%***
+142***Ethereum (ETH)***Huobi***QUN/ETH***$1,447,740***$489.74***0.10%***
+143***Ethereum (ETH)***BTC Markets***ETH/AUD***$1,439,930***$487.53***0.10%***
+144***Ethereum (ETH)***Huobi***SMT/ETH***$1,432,490***$486.24***0.10%***
+145***Ethereum (ETH)***Kucoin***CS/ETH***$1,432,390***$487.01***0.10%***
+146***Ethereum (ETH)***Huobi***CVC/ETH***$1,430,580***$486.84***0.10%***
+147***Ethereum (ETH)***Bibox***CAT/ETH***$1,409,410***$485.20***0.10%***
+148***Ethereum (ETH)***Binance***VIB/ETH***$1,402,250***$482.05***0.10%***
+149***Ethereum (ETH)***Huobi***WICC/ETH***$1,392,600***$493.89***0.10%***
+150***Ethereum (ETH)***Liqui***ETH/BTC***$1,391,800***$485.42***0.10%***
+151***Ethereum (ETH)***OKEx***MOF/ETH***$1,385,820***$487.58***0.10%***
+152***Ethereum (ETH)***WEX***ETH/LTC***$1,372,010***$484.99***0.09%***
+153***Ethereum (ETH)***Huobi***LSK/ETH***$1,369,960***$485.16***0.09%***
+154***Ethereum (ETH)***Huobi***TNT/ETH***$1,368,910***$483.38***0.09%***
+155***Ethereum (ETH)***Huobi***ENG/ETH***$1,353,940***$485.37***0.09%***
+156***Ethereum (ETH)***Huobi***MEE/ETH***$1,335,000***$485.51***0.09%***
+157***Ethereum (ETH)***Huobi***STK/ETH***$1,334,760***$489.65***0.09%***
+158***Ethereum (ETH)***Huobi***SOC/ETH***$1,334,390***$486.41***0.09%***
+159***Ethereum (ETH)***OKEx***XRP/ETH***$1,332,900***$487.37***0.09%***
+160***Ethereum (ETH)***Fatbtc***ETH/CNY***$1,330,730***$527.51***0.09%***
+161***Ethereum (ETH)***Huobi***ICX/ETH***$1,324,060***$494.95***0.09%***
+162***Ethereum (ETH)***Binance***XEM/ETH***$1,309,220***$491.03***0.09%***
+163***Ethereum (ETH)***Huobi***MCO/ETH***$1,306,370***$486.16***0.09%***
+164***Ethereum (ETH)***Huobi***SNC/ETH***$1,306,100***$493.85***0.09%***
+165***Ethereum (ETH)***Huobi***SALT/ETH***$1,303,640***$489.23***0.09%***
+166***Ethereum (ETH)***WEX***DSH/ETH***$1,303,000***$489.42***0.09%***
+167***Ethereum (ETH)***Huobi***TOPC/ETH***$1,289,210***$502.89***0.09%***
+168***Ethereum (ETH)***Huobi***ACT/ETH***$1,283,430***$488.31***0.09%***
+169***Ethereum (ETH)***Huobi***MTX/ETH***$1,272,440***$488.07***0.09%***
+170***Ethereum (ETH)***Qryptos***LDC/ETH***$1,251,460***$488.66***0.09%***
+171***Ethereum (ETH)***Upbit***ETH/BTC***$1,233,970***$485.56***0.09%***
+172***Ethereum (ETH)***Huobi***EVX/ETH***$1,224,350***$487.26***0.08%***
+173***Ethereum (ETH)***Huobi***EKO/ETH***$1,219,430***$487.03***0.08%***
+174***Ethereum (ETH)***Octaex***ETH/BTC***$1,201,590***$486.20***0.08%***
+175***Ethereum (ETH)***CoinBene***MTN/ETH***$1,198,980***$513.32***0.08%***
+176***Ethereum (ETH)***Huobi***BAT/ETH***$1,190,520***$486.66***0.08%***
+177***Ethereum (ETH)***CEX.IO***ETH/USD***$1,181,160***$491.06***0.08%***
+178***Ethereum (ETH)***Huobi***DBC/ETH***$1,177,950***$483.11***0.08%***
+179***Ethereum (ETH)***Huobi***ADX/ETH***$1,167,560***$486.23***0.08%***
+180***Ethereum (ETH)***Bittrex***TRX/ETH***$1,155,930***$488.20***0.08%***
+181***Ethereum (ETH)***Binance***DASH/ETH***$1,142,800***$487.34***0.08%***
+182***Ethereum (ETH)***Huobi***LINK/ETH***$1,139,580***$487.10***0.08%***
+183***Ethereum (ETH)***Binance***WTC/ETH***$1,113,700***$485.60***0.08%***
+184***Ethereum (ETH)***Bibox***BIX/ETH***$1,095,800***$484.31***0.08%***
+185***Ethereum (ETH)***Binance***ZIL/ETH***$1,068,740***$483.35***0.07%***
+186***Ethereum (ETH)***Huobi***POWR/ETH***$1,061,470***$490.10***0.07%***
+187***Ethereum (ETH)***Liqui***GUP/ETH***$1,054,230***$487.01***0.07%***
+188***Ethereum (ETH)***Huobi***REQ/ETH***$1,046,050***$489.47***0.07%***
+189***Ethereum (ETH)***Huobi***SRN/ETH***$1,040,600***$485.12***0.07%***
+190***Ethereum (ETH)***Liqui***ADX/ETH***$1,020,580***$482.71***0.07%***
+191***Ethereum (ETH)***Binance***NEBL/ETH***$1,019,450***$488.07***0.07%***
+192***Ethereum (ETH)***OKEx***AUTO/ETH***$1,010,590***$488.24***0.07%***
+193***Ethereum (ETH)***Upbit***TRX/ETH***$1,007,780***$486.03***0.07%***
+194***Ethereum (ETH)***Liqui***ETH/USDT***$1,004,130***$486.20***0.07%***
+195***Ethereum (ETH)***Huobi***TNB/ETH***$999,756***$486.86***0.07%***
+196***Ethereum (ETH)***Binance***ELF/ETH***$985,072***$485.44***0.07%***
+197***Ethereum (ETH)***Huobi***AIDOC/ETH***$984,132***$488.70***0.07%***
+198***Ethereum (ETH)***Huobi***UTK/ETH***$983,366***$486.78***0.07%***
+199***Ethereum (ETH)***Bibox***C20/ETH***$981,136***$486.83***0.07%***
+200***Ethereum (ETH)***OKEx***TOPC/ETH***$979,151***$495.78***0.07%***
+201***Ethereum (ETH)***Binance***KNC/ETH***$974,782***$486.75***0.07%***
+202***Ethereum (ETH)***Bibox***BTM/ETH***$962,016***$489.31***0.07%***
+203***Ethereum (ETH)***Binance***ENJ/ETH***$961,652***$483.82***0.07%***
+204***Ethereum (ETH)***Huobi***YEE/ETH***$957,694***$484.81***0.07%***
+205***Ethereum (ETH)***HitBTC***BCH/ETH***$934,048***$486.02***0.06%***
+206***Ethereum (ETH)***COSS***COSS/ETH***$932,644***$488.95***0.06%***
+207***Ethereum (ETH)***CoinBene***ETH/BTC***$928,546***$485.34***0.06%***
+208***Ethereum (ETH)***OOOBTC***ETH/BTC***$915,958***$486.69***0.06%***
+209***Ethereum (ETH)***Binance***BLZ/ETH***$912,702***$493.45***0.06%***
+210***Ethereum (ETH)***BTCTurk***ETH/TRY***$901,619***$489.13***0.06%***
+211***Ethereum (ETH)***WEX***ETH/ZEC***$868,478***$488.84***0.06%***
+212***Ethereum (ETH)***BigONE***ETH/BTC***$861,149***$485.96***0.06%***
+213***Ethereum (ETH)***Huobi***CHAT/ETH***$860,465***$486.94***0.06%***
+214***Ethereum (ETH)***Liqui***LDC/ETH***$858,891***$523.18***0.06%***
+215***Ethereum (ETH)***Huobi***DAT/ETH***$854,853***$498.41***0.06%***
+216***Ethereum (ETH)***Binance***LEND/ETH***$848,326***$485.34***0.06%***
+217***Ethereum (ETH)***Kucoin***KICK/ETH***$835,387***$487.61***0.06%***
+218***Ethereum (ETH)***Qryptos***TRX/ETH***$835,222***$496.54***0.06%***
+219***Ethereum (ETH)***OKEx***GNX/ETH***$834,924***$497.58***0.06%***
+220***Ethereum (ETH)***bitFlyer***ETH/BTC***$832,479***$485.88***0.06%***
+221***Ethereum (ETH)***Binance***OMG/ETH***$826,936***$486.54***0.06%***
+222***Ethereum (ETH)***Binance***IOTA/ETH***$822,824***$486.04***0.06%***
+223***Ethereum (ETH)***Binance***CMT/ETH***$809,896***$484.08***0.06%***
+224***Ethereum (ETH)***Huobi***APPC/ETH***$773,078***$485.41***0.05%***
+225***Ethereum (ETH)***Huobi***SWFTC/ETH***$753,928***$485.23***0.05%***
+226***Ethereum (ETH)***Binance***CTR/ETH***$744,370***$486.96***0.05%***
+227***Ethereum (ETH)***IDEX***MAN/ETH***$742,189***$483.84***0.05%***
+228***Ethereum (ETH)***Binance***BCC/ETH***$732,249***$486.65***0.05%***
+229***Ethereum (ETH)***OKEx***INS/ETH***$721,716***$485.66***0.05%***
+230***Ethereum (ETH)***EXX***ETH/USDT***$717,833***$489.22***0.05%***
+231***Ethereum (ETH)***Binance***GTO/ETH***$716,580***$488.98***0.05%***
+232***Ethereum (ETH)***Binance***ETC/ETH***$712,084***$488.75***0.05%***
+233***Ethereum (ETH)***Huobi***OST/ETH***$708,458***$486.49***0.05%***
+234***Ethereum (ETH)***Kucoin***IHT/ETH***$708,056***$489.55***0.05%***
+235***Ethereum (ETH)***Binance***AION/ETH***$706,732***$487.83***0.05%***
+236***Ethereum (ETH)***Huobi***ZLA/ETH***$685,288***$486.77***0.05%***
+237***Ethereum (ETH)***OKEx***GTC/ETH***$684,060***$484.26***0.05%***
+238***Ethereum (ETH)***Binance***AST/ETH***$677,232***$484.58***0.05%***
+239***Ethereum (ETH)***OEX***ETH/BTC***$669,197***$473.34***0.05%***
+240***Ethereum (ETH)***Kucoin***POLY/ETH***$662,934***$487.37***0.05%***
+241***Ethereum (ETH)***OKEx***AIDOC/ETH***$658,801***$484.39***0.05%***
+242***Ethereum (ETH)***OKEx***R/ETH***$652,438***$484.88***0.05%***
+243***Ethereum (ETH)***OKEx***OF/ETH***$645,387***$486.92***0.04%***
+244***Ethereum (ETH)***HitBTC***XMR/ETH***$644,093***$485.77***0.04%***
+245***Ethereum (ETH)***Binance***MDA/ETH***$626,953***$490.86***0.04%***
+246***Ethereum (ETH)***BCEX***ETH/BTC***$626,344***$490.02***0.04%***
+247***Ethereum (ETH)***Binance***GVT/ETH***$623,882***$483.85***0.04%***
+248***Ethereum (ETH)***Huobi***WAX/ETH***$622,968***$485.96***0.04%***
+249***Ethereum (ETH)***Kucoin***R/ETH***$621,412***$489.04***0.04%***
+250***Ethereum (ETH)***Bibox***FSN/ETH***$618,735***$493.52***0.04%***
+251***Ethereum (ETH)***Bit-Z***BTX/ETH***$615,595***$492.88***0.04%***
+252***Ethereum (ETH)***Gate.io***OCN/ETH***$609,647***$485.38***0.04%***
+253***Ethereum (ETH)***Gate.io***QLC/ETH***$609,603***$478.73***0.04%***
+254***Ethereum (ETH)***IDEX***TRAC/ETH***$608,207***$486.62***0.04%***
+255***Ethereum (ETH)***Kucoin***LOOM/ETH***$608,089***$482.55***0.04%***
+256***Ethereum (ETH)***HitBTC***SNC/ETH***$597,361***$497.76***0.04%***
+257***Ethereum (ETH)***OTCBTC***BTC/ETH***$592,571***$485.50***0.04%***
+258***Ethereum (ETH)***Octaex***ETH/USD***$592,482***$491.31***0.04%***
+259***Ethereum (ETH)***xBTCe***ETH/USD***$590,225***$482.23***0.04%***
+260***Ethereum (ETH)***Binance***APPC/ETH***$589,751***$486.56***0.04%***
+261***Ethereum (ETH)***Binance***WABI/ETH***$580,734***$482.15***0.04%***
+262***Ethereum (ETH)***xBTCe***ETH/EUR***$580,178***$467.47***0.04%***
+263***Ethereum (ETH)***Gemini***ETH/BTC***$577,571***$484.91***0.04%***
+264***Ethereum (ETH)***Binance***BCD/ETH***$574,685**** $374.01***0.04%***
+265***Ethereum (ETH)***HitBTC***TRX/ETH***$574,571***$488.37***0.04%***
+266***Ethereum (ETH)***Kraken***EOS/ETH***$563,081***$491.38***0.04%***
+267***Ethereum (ETH)***OKEx***LIGHT/ETH***$554,155***$488.27***0.04%***
+268***Ethereum (ETH)***Exmo***ETH/RUB***$553,840***$472.87***0.04%***
+269***Ethereum (ETH)***Huobi***LUN/ETH***$550,596***$488.76***0.04%***
+270***Ethereum (ETH)***xBTCe***ETH/BTC***$542,712***$500.77***0.04%***
+271***Ethereum (ETH)***BX Thailand***ETH/THB***$534,470***$495.96***0.04%***
+272***Ethereum (ETH)***OKEx***THETA/ETH***$525,016***$484.61***0.04%***
+273***Ethereum (ETH)***Binance***BCPT/ETH***$524,978***$486.35***0.04%***
+274***Ethereum (ETH)***Binance***CDT/ETH***$522,899***$485.36***0.04%***
+275***Ethereum (ETH)***Binance***LSK/ETH***$521,863***$485.89***0.04%***
+276***Ethereum (ETH)***Binance***LRC/ETH***$516,871***$488.85***0.04%***
+277***Ethereum (ETH)***Gate.io***IHT/ETH***$508,594***$492.83***0.04%***
+278***Ethereum (ETH)***Liqui***WINGS/ETH***$505,463***$484.30***0.03%***
+279***Ethereum (ETH)***Quoine***ETH/JPY***$501,876***$490.81***0.03%***
+280***Ethereum (ETH)***Kucoin***ELEC/ETH***$494,907***$486.46***0.03%***
+281***Ethereum (ETH)***Qryptos***EZT/ETH***$488,069***$484.44***0.03%***
+282***Ethereum (ETH)***Exmo***ETH/EUR***$479,598***$496.98***0.03%***
+283***Ethereum (ETH)***OKEx***INT/ETH***$476,565***$495.04***0.03%***
+284***Ethereum (ETH)***Mercatox***ETH/BTC***$470,578***$489.44***0.03%***
+285***Ethereum (ETH)***Binance***AMB/ETH***$467,668***$482.37***0.03%***
+286***Ethereum (ETH)***Binance***SUB/ETH***$464,323***$486.61***0.03%***
+287***Ethereum (ETH)***OKEx***STC/ETH***$463,874***$488.74***0.03%***
+288***Ethereum (ETH)***Qryptos***UKG/ETH***$461,614***$495.46***0.03%***
+289***Ethereum (ETH)***ChaoEX***ZRX/ETH***$461,286***$487.65***0.03%***
+290***Ethereum (ETH)***Binance***RCN/ETH***$457,913***$484.66***0.03%***
+291***Ethereum (ETH)***Qryptos***ENJ/ETH***$447,109***$481.58***0.03%***
+292***Ethereum (ETH)***MBAex***ETH/USDT***$442,929***$466.73***0.03%***
+293***Ethereum (ETH)***Cryptopia***ETH/BTC***$441,369***$484.91***0.03%***
+294***Ethereum (ETH)***OKEx***FAIR/ETH***$436,164***$487.32***0.03%***
+295***Ethereum (ETH)***OKEx***UGC/ETH***$434,384***$484.66***0.03%***
+296***Ethereum (ETH)***Bibox***SXUT/ETH***$432,283***$486.52***0.03%***
+297***Ethereum (ETH)***Allcoin***UGT/ETH***$431,550***$486.80***0.03%***
+298***Ethereum (ETH)***Binance***XMR/ETH***$424,947***$486.81***0.03%***
+299***Ethereum (ETH)***Binance***POE/ETH***$423,169***$486.87***0.03%***
+300***Ethereum (ETH)***Binance***TNB/ETH***$416,189***$488.54***0.03%***
+301***Ethereum (ETH)***CEX.IO***ETH/BTC***$415,722***$483.38***0.03%***
+302***Ethereum (ETH)***OKEx***YOYO/ETH***$406,258***$486.82***0.03%***
+303***Ethereum (ETH)***Binance***NULS/ETH***$402,242***$491.27***0.03%***
+304***Ethereum (ETH)***Binance***VIBE/ETH***$399,670***$486.81***0.03%***
+305***Ethereum (ETH)***OEX***ETH/CNY***$398,852***$524.08***0.03%***
+306***Ethereum (ETH)***Binance***CND/ETH***$396,239***$503.02***0.03%***
+307***Ethereum (ETH)***Kucoin***PRL/ETH***$392,157***$484.26***0.03%***
+308***Ethereum (ETH)***OKEx***NEO/ETH***$391,856***$483.52***0.03%***
+309***Ethereum (ETH)***Bitcoin Indonesia***ETH/IDR***$386,737***$501.57***0.03%***
+310***Ethereum (ETH)***Gate.io***EOS/ETH***$385,177***$491.26***0.03%***
+311***Ethereum (ETH)***EXX***VLC/ETH***$384,688***$486.80***0.03%***
+312***Ethereum (ETH)***Exmo***ETH/UAH***$378,278***$500.55***0.03%***
+313***Ethereum (ETH)***Quoine***ETH/USD***$376,305***$492.37***0.03%***
+314***Ethereum (ETH)***OKEx***IOTA/ETH***$376,289***$485.62***0.03%***
+315***Ethereum (ETH)***Bit-Z***MCO/ETH***$375,821***$484.93***0.03%***
+316***Ethereum (ETH)***Bit-Z***NULS/ETH***$375,344***$490.20***0.03%***
+317***Ethereum (ETH)***Binance***SALT/ETH***$374,568***$486.15***0.03%***
+318***Ethereum (ETH)***Kucoin***TEL/ETH***$374,408***$497.85***0.03%***
+319***Ethereum (ETH)***HitBTC***AVH/ETH***$373,212***$488.64***0.03%***
+320***Ethereum (ETH)***HitBTC***EDO/ETH***$372,669***$481.73***0.03%***
+321***Ethereum (ETH)***OKEx***ACT/ETH***$371,403***$488.02***0.03%***
+322***Ethereum (ETH)***OKEx***PRA/ETH***$370,943***$486.55***0.03%***
+323***Ethereum (ETH)***Bibox***AWR/ETH***$362,592***$478.41***0.03%***
+324***Ethereum (ETH)***Binance***ENG/ETH***$354,660***$485.34***0.02%***
+325***Ethereum (ETH)***Bibox***LTC/ETH***$351,705***$480.03***0.02%***
+326***Ethereum (ETH)***Binance***MTL/ETH***$348,946***$488.24***0.02%***
+327***Ethereum (ETH)***xBTCe***ETH/RUB***$341,322***$471.31***0.02%***
+328***Ethereum (ETH)***Binance***SNGLS/ETH***$339,027***$487.10***0.02%***
+329***Ethereum (ETH)***Binance***SNT/ETH***$336,170***$496.50***0.02%***
+330***Ethereum (ETH)***Binance***ZRX/ETH***$333,974***$488.22***0.02%***
+331***Ethereum (ETH)***Binance***EVX/ETH***$333,866***$483.15***0.02%***
+332***Ethereum (ETH)***OKEx***RCT/ETH***$332,418***$488.19***0.02%***
+333***Ethereum (ETH)***Bittrex***GNO/ETH***$330,684***$480.94***0.02%***
+334***Ethereum (ETH)***Binance***LUN/ETH***$329,858***$489.76***0.02%***
+335***Ethereum (ETH)***Gate.io***TIPS/ETH***$324,799**** $474.36***0.02%***
+336***Ethereum (ETH)***Binance***QSP/ETH***$323,964***$484.58***0.02%***
+337***Ethereum (ETH)***Bitfinex***MIOTA/ETH***$322,542***$486.49***0.02%***
+338***Ethereum (ETH)***Bitbank***ETH/BTC***$322,011***$485.48***0.02%***
+339***Ethereum (ETH)***Gate.io***BTM/ETH***$318,504***$487.20***0.02%***
+340***Ethereum (ETH)***Binance***RLC/ETH***$315,301***$484.44***0.02%***
+341***Ethereum (ETH)***Coinnest***ETH/KRW***$313,538***$419.30***0.02%***
+342***Ethereum (ETH)***OKEx***AAC/ETH***$312,712***$479.69***0.02%***
+343***Ethereum (ETH)***Kucoin***OCN/ETH***$310,655***$490.03***0.02%***
+344***Ethereum (ETH)***Binance***OST/ETH***$310,607***$490.69***0.02%***
+345***Ethereum (ETH)***Vebitcoin***ETH/TRY***$309,735***$501.19***0.02%***
+346***Ethereum (ETH)***Binance***LINK/ETH***$302,796***$484.98***0.02%***
+347***Ethereum (ETH)***OKEx***SOC/ETH***$300,948***$488.06***0.02%***
+348***Ethereum (ETH)***Binance***MOD/ETH***$300,862***$483.63***0.02%***
+349***Ethereum (ETH)***Kucoin***RHOC/ETH***$300,085***$485.46***0.02%***
+350***Ethereum (ETH)***Livecoin***ETH/USD***$299,668***$500.00***0.02%***
+351***Ethereum (ETH)***Binance***MTH/ETH***$296,618***$488.06***0.02%***
+352***Ethereum (ETH)***CoinBene***TCT/ETH***$296,136***$484.01***0.02%***
+353***Ethereum (ETH)***DSX***ETH/USD***$292,731***$488.56***0.02%***
+354***Ethereum (ETH)***CoinBene***NPXS/ETH***$290,640***$457.35***0.02%***
+355***Ethereum (ETH)***Binance***RPX/ETH***$290,572***$483.87***0.02%***
+356***Ethereum (ETH)***OKEx***QTUM/ETH***$289,428***$490.14***0.02%***
+357***Ethereum (ETH)***OKEx***ABT/ETH***$288,831***$488.47***0.02%***
+358***Ethereum (ETH)***Bittrex***NEO/ETH***$286,403***$484.68***0.02%***
+359***Ethereum (ETH)***OKEx***BKX/ETH***$286,083***$487.69***0.02%***
+360***Ethereum (ETH)***Zebpay***ETH/INR***$285,358***$522.91***0.02%***
+361***Ethereum (ETH)***Bittrex***XRP/ETH***$283,760***$488.74***0.02%***
+362***Ethereum (ETH)***OKEx***ONT/ETH***$282,684***$484.05***0.02%***
+363***Ethereum (ETH)***Lbank***PUT/ETH***$278,138***$585.21***0.02%***
+364***Ethereum (ETH)***OKEx***QUN/ETH***$276,208***$481.14***0.02%***
+365***Ethereum (ETH)***ChaoEX***ETH/BTC***$275,856***$485.96***0.02%***
+366***Ethereum (ETH)***Kucoin***NEO/ETH***$274,594***$484.46***0.02%***
+367***Ethereum (ETH)***Binance***BTS/ETH***$270,974***$492.66***0.02%***
+368***Ethereum (ETH)***OKEx***BTM/ETH***$269,547***$486.74***0.02%***
+369***Ethereum (ETH)***Binance***PPT/ETH***$260,811***$488.17***0.02%***
+370***Ethereum (ETH)***Binance***CHAT/ETH***$260,338***$486.28***0.02%***
+371***Ethereum (ETH)***Zaif***ETH/BTC***$257,622***$484.67***0.02%***
+372***Ethereum (ETH)***HitBTC***BANCA/ETH***$256,664***$479.28***0.02%***
+373***Ethereum (ETH)***Binance***FUN/ETH***$255,980***$485.35***0.02%***
+374***Ethereum (ETH)***CoinEx***ETH/BTC***$255,415***$485.60***0.02%***
+375***Ethereum (ETH)***Binance***STRAT/ETH***$254,835***$486.67***0.02%***
+376***Ethereum (ETH)***Coinsquare***ETH/BTC***$254,155***$487.04***0.02%***
+377***Ethereum (ETH)***Gate.io***MAN/ETH***$250,967***$495.16***0.02%***
+378***Ethereum (ETH)***Kucoin***DADI/ETH***$247,822***$485.45***0.02%***
+379***Ethereum (ETH)***Binance***NAV/ETH***$247,379***$488.88***0.02%***
+380***Ethereum (ETH)***OKEx***RNT/ETH***$246,649***$483.93***0.02%***
+381***Ethereum (ETH)***OTCBTC***EOS/ETH***$246,614***$489.13***0.02%***
+382***Ethereum (ETH)***Binance***GXS/ETH***$246,543***$477.76***0.02%***
+383***Ethereum (ETH)***Bibox***JNT/ETH***$243,910***$491.35***0.02%***
+384***Ethereum (ETH)***Qryptos***STU/ETH***$243,571***$488.24***0.02%***
+385***Ethereum (ETH)***IDEX***NPXS/ETH***$243,345***$474.86***0.02%***
+386***Ethereum (ETH)***Kucoin***ZPT/ETH***$242,456***$487.93***0.02%***
+387***Ethereum (ETH)***Kucoin***HAV/ETH***$241,152***$484.00***0.02%***
+388***Ethereum (ETH)***Gate.io***ETH/BTC***$240,732***$484.56***0.02%***
+389***Ethereum (ETH)***Kucoin***TNC/ETH***$239,941***$491.46***0.02%***
+390***Ethereum (ETH)***Bittrex***QTUM/ETH***$239,461***$487.13***0.02%***
+391***Ethereum (ETH)***C2CX***ETH/BTC***$232,861***$486.28***0.02%***
+392***Ethereum (ETH)***Upbit***QTUM/ETH***$231,549***$491.38***0.02%***
+393***Ethereum (ETH)***LATOKEN***LA/ETH***$230,817***$483.48***0.02%***
+394***Ethereum (ETH)***Independent Reserve***ETH/AUD***$229,330***$487.12***0.02%***
+395***Ethereum (ETH)***Qryptos***FLIXX/ETH***$223,851***$488.01***0.02%***
+396***Ethereum (ETH)***Bittrex***ADA/ETH***$223,847***$497.00***0.02%***
+397***Ethereum (ETH)***BitBay***ETH/PLN***$221,725***$486.94***0.02%***
+398***Ethereum (ETH)***EXX***SEXC/ETH***$221,625***$486.80***0.02%***
+399***Ethereum (ETH)***GOPAX***ETH/KRW***** $1,424,610***$503.26***0.00%***
+400***Ethereum (ETH)***Cryptonex***ETH/CNX****** $543,383****** $0.061081***0.00%***
+
+
+
+1***Ripple (XRP)***Bithumb***XRP/KRW***$82,246,100***$0.612256***23.92%***
+2***Ripple (XRP)***Binance***XRP/BTC***$31,466,500***$0.593898***9.15%***
+3***Ripple (XRP)***Huobi***XRP/USDT***$28,158,100***$0.596765***8.19%***

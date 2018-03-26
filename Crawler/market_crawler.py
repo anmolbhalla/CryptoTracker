@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 def Coin_Market_Details():
 
-    data_file=open('crypto_market_data.txt','w')
+    data_file=open('crypto_market_data.txt','a')
 
     try:
 
@@ -31,17 +31,21 @@ def Coin_Market_Details():
 
              table_data=tag[j].find_elements_by_tag_name('td')
 
-             if(j!=0):data_file.writelines(str(coin_name) + '-')
+             if(j!=0):
+                 data_file.writelines(str(table_data[0].text) + '***')
+                 data_file.writelines(str(coin_name) + '***')
 
-             for k in range(0,len(table_data)-1):
+             for k in range(1,len(table_data)-1):
 
-                 data_file.writelines(str(table_data[k].text) + '-' + '\n')
+                 data_file.writelines(str(table_data[k].text) + '***')
+             data_file.writelines('\n')
 
+    data_file.writelines('\n\n')
     data_file.close()
 
 def Coin_Market_Headers():
 
-    data_file = open('crypto_market_data_headers.txt', 'w')
+    data_file = open('crypto_market_data_headers.txt', 'a')
 
     try:
 
@@ -54,23 +58,26 @@ def Coin_Market_Headers():
 
     coin_name = driver.find_element_by_class_name('text-large').text
     coin_price = driver.find_elements_by_class_name('text-large2')
-    coin_currency = driver.find_element_by_class_name('details-text-medium').text
-    coin_marketcap = driver.find_elements_by_class_name("coin-summary-item-detail")
-    coin_market_header = driver.find_elements_by_class_name("coin-summary-item-header")
+    coin_currency = driver.find_elements_by_class_name('details-text-medium')
 
-    data_file.writelines(str(coin_name) + '-')
-    data_file.writelines(str(coin_price[0].text) + coin_currency + '-' )
-    data_file.writelines(str(coin_price[1].text ))
+    data_file.writelines(str(coin_name) + '\n')
+    data_file.writelines(str(coin_price[0].text) + coin_currency[0].text + '\n' )
+    data_file.writelines(str(coin_price[1].text + '\n'))
 
-    for i in range(0,len(coin_marketcap)):
-        data_file.writelines(str(coin_market_header[i].text) + '-' + str(coin_marketcap[i].text + '\n'))
+    for i in range(1,len(coin_currency),2):
+        data_file.writelines(str(coin_currency[i].text) + '\n' + str(coin_currency[i+1].text) + '\n')
+
+    data_file.writelines('\n\n')
+    data_file.close()
 
 if __name__ == '__main__':
-
-
     driver = webdriver.Chrome()
-    url = 'https://coinmarketcap.com/currencies/iconomi/#markets'
-    driver.get(url)
-    timeout = 200
-    Coin_Market_Details()
-    Coin_Market_Headers()
+    coin_link_file=open('coin_links.txt','r')
+    link=coin_link_file.readline()
+    while(link):
+        driver.get(link)
+        timeout = 200
+        Coin_Market_Details()
+        Coin_Market_Headers()
+        link=coin_link_file.readline()
+    coin_link_file.close()
