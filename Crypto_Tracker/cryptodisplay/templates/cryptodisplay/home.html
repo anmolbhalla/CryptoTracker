@@ -15,6 +15,7 @@
         <td><b>Volume(24h)</b></td>
         <td><b>Change(24h)</b></td>
         <td><b>Graph(7d)</b></td>
+
     </tr>
 
     {% for cryptos in cryptos_detail %}
@@ -42,12 +43,17 @@
             <img src="{{ cryptos.crypto_graph }}">
         </td>
         </tr>
+
     {% endfor %}
+
     </table>
+
 {% endif %}
+
 </div>
 
 <script>
+
 $(document).ready(function() {
   $.ajaxSetup({ cache: false }); // This part addresses an IE bug.  without it, IE will only load the first number and will never refresh
   var my_refresh = setInterval(function() {

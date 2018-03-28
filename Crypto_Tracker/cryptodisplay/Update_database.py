@@ -24,8 +24,8 @@ def Update_Database () :
             add.save()
 
             count += 1
-
-while (True) :
-
-    Update_Database()
-    time.sleep(120)
+#
+# while (True) :
+#
+Update_Database()
+#     time.sleep(120)
