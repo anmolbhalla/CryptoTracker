@@ -36,7 +36,6 @@ def Coin_Market_Details():
                  data_file.writelines(str(coin_name) + '***')
 
              for k in range(1,len(table_data)-1):
-
                  data_file.writelines(str(table_data[k].text) + '***')
              data_file.writelines('\n')
 
@@ -61,7 +60,7 @@ def Coin_Market_Headers():
     coin_currency = driver.find_elements_by_class_name('details-text-medium')
 
     data_file.writelines(str(coin_name) + '\n')
-    data_file.writelines(str(coin_price[0].text) + coin_currency[0].text + '\n' )
+    data_file.writelines(str(coin_price[0].text) + coin_currency[0].text + '\n')
     data_file.writelines(str(coin_price[1].text + '\n'))
 
     for i in range(1,len(coin_currency),2):
@@ -74,7 +73,10 @@ if __name__ == '__main__':
     driver = webdriver.Chrome()
     coin_link_file=open('coin_links.txt','r')
     link=coin_link_file.readline()
+    i=1
     while(link):
+        print(i)
+        i=i+1
         driver.get(link)
         timeout = 200
         Coin_Market_Details()
