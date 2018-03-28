@@ -54,7 +54,7 @@ def Coin_Links() :
     for i in range(0,len(coin_links)):
 
         individual_link=coin_links[i].get_attribute('href')
-        file_data.writelines(str(individual_link + '\n'))
+        file_data.writelines(str(individual_link) + '#markets' + '\n')
 
     file_data.close()
 
