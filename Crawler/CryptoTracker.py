@@ -69,9 +69,9 @@ if __name__ == '__main__':
     driver.get(url)
     timeout = 200
 
-    while (True) :
-
-        Coin_details()
-        Coin_Links()
-        time.sleep(150)
-        driver.refresh()
+    # while (True) :
+    #
+    Coin_details()
+    Coin_Links()
+    #     time.sleep(150)
+    #     driver.refresh()

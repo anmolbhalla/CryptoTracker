@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+Iconomi (ICN)-$1.00USD-(-8.14%)Market Cap-$99,793,534 USD
+12,334 BTC
+204,937 ETH
+Volume (24h)-$934,625 USD
+115.52 BTC
+1,919 ETH
+Circulating Supply-99,735,687 ICN
+=======
 Bitcoin (BTC)
 $8,132.05USD
 (-5.08%)
@@ -30,3 +39,4 @@ Circulating Supply
 98,429,775 ETH
 
 
+>>>>>>> edbc70d985027910006b4d3d2610adfd08a5297d
