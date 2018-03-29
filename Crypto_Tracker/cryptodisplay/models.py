@@ -13,6 +13,16 @@ class Cryptos(models.Model):
     crypto_graph = models.CharField(max_length=1000)
     value_change=models.CharField(max_length=100)
 
+class Cryptos_details(models.Model):
+    details_crypto_number=models.CharField(max_length=500)
+    details_crypto_name=models.CharField(max_length=500)
+    details_crypto_source=models.CharField(max_length=500)
+    details_crypto_pair=models.CharField(max_length=500)
+    details_crypto_volume=models.CharField(max_length=500)
+    details_crypto_price=models.CharField(max_length=500)
+    details_crypto_volume_percent=models.CharField(max_length=500)
+
+
 
 
 
