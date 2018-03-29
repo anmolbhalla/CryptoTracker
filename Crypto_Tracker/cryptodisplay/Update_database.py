@@ -4,16 +4,15 @@ import time
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "Crypto_Tracker.settings")
 django.setup()
 
-from cryptodisplay.models import Cryptos
+from cryptodisplay.models import Cryptos,Cryptos_details
 
 def Update_Database () :
 
     #delete = Cryptos.objects.all().delete()
 
     with open('/home/aryan/Documents/Github/CryptoTracker/Crawler/crypto_data.txt') as openfileobject:
-<<<<<<< HEAD
         count = 1
-=======
+
         #count = 1
 
         for line in openfileobject:
@@ -46,22 +45,19 @@ def Update_Database () :
 
 
 #while (True) :
-Update_Database()
+# Update_Database()
 #time.sleep(120)
+def Update_details():
 
-<<<<<<< HEAD
-            add = Cryptos(id=count, crypto_logo=line_split[0] , crypto_graph=line_split[1], crypto_number=line_split[2],
-                          crypto_name=line_split[3], crypto_price=line_split[4],
-                          crypto_change=line_split[5], crypto_market_cap=line_split[6], crypto_supply=line_split[7],
-                          crypto_volume=line_split[8])
+    count_id=1
+    delete = Cryptos_details.objects.all().delete()
+    with open('/home/aryan/Documents/Github/CryptoTracker/Crawler/crypto_market_data.txt') as openfileobject:
+        for line_details in openfileobject:
+            line_split_details = line_details.split('***')
+            print(line_split_details)
+            crypto_object = Cryptos_details(id=count_id,details_crypto_number=line_split_details[0],details_crypto_name=line_split_details[1],details_crypto_source=line_split_details[2],details_crypto_pair=line_split_details[3],details_crypto_volume=line_split_details[4],details_crypto_price=line_split_details[5],details_crypto_volume_percent=line_split_details[6])
+            crypto_object.save()
+            count_id+=1
 
-            add.save()
 
-            count += 1
-#
-# while (True) :
-#
-Update_Database()
-#     time.sleep(120)
-=======
->>>>>>> edbc70d985027910006b4d3d2610adfd08a5297d
+Update_details()

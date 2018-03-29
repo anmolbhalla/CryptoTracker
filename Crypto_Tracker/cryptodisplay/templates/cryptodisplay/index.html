@@ -104,7 +104,7 @@
             </td>
             <td>
                 <img src="{{ cryptos.crypto_logo }}">
-            {{ cryptos.crypto_name }}
+                <a href="{{   cryptos.crypto_name }}">{{ cryptos.crypto_name }}</a>
             </td>
             <td>
                 {{ cryptos.crypto_market_cap }}
@@ -140,14 +140,8 @@ $(document).ready(function() {
   $.ajaxSetup({ cache: false }); // This part addresses an IE bug.  without it, IE will only load the first number and will never refresh
   var my_refresh = setInterval(function() {
     $('#output_box').load('/home/get_log/');
-  }, 10000); // the "1000"
+  }, 5000); // the "1000"
 });
-if
-if (reponseText == "NOT_FOUND")
-   document.getElementById("table_load").className = "error";
-else
-   document.getElementById("table_load").className = "success";
-
 </script>
 
     <!--==========================

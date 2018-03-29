@@ -24,3 +24,6 @@ def get_log(request):
     }
 
     return HttpResponse(template.render(context, request))
+
+def details(request,crypto_name):
+    return HttpResponse(crypto_name)

@@ -58,7 +58,7 @@ $(document).ready(function() {
   $.ajaxSetup({ cache: false }); // This part addresses an IE bug.  without it, IE will only load the first number and will never refresh
   var my_refresh = setInterval(function() {
     $('#output_box').load('/home/get_log/');
-  }, 10000); // the "1000"
+  }, 10); // the "1000"
 });
 
 </script>
